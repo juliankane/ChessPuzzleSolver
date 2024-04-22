@@ -1,0 +1,1114 @@
+INFO:ChessProblemsLogger:Processing problem 1: r2qkb1r/pp2nppp/3p4/2pNN1B1/2BnP3/3P4/PPP2PPP/R2bK2R w KQkq - 1 0 with expected solution 1. Nf6+ gxf6 2. Bxf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 115, 'move': 'd5f6'}, {'value': 9, 'move': 'g7f6'}, {'value': 101, 'move': 'c4f7'}], Eval is: 9999999, Moves calculated is: 124 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Nf6+ gxf6 2. Bxf7# 
+
+
+INFO:ChessProblemsLogger:Skipping problem 2: 1rb4r/pkPp3p/1b1P3n/1Q6/N3Pp2/8/P1P3PP/7K w - - 1 0 with solution 1. Qd5+ Ka6 2. cxb8=N#  due to pawn promotion
+INFO:ChessProblemsLogger:Processing problem 3: 4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 1 0 with expected solution 1. Qb8+ Nxb8 2. Rd8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 95, 'move': 'b3b8'}, {'value': 13, 'move': 'd7b8'}, {'value': 103, 'move': 'd1d8'}], Eval is: 9999999, Moves calculated is: 161 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qb8+ Nxb8 2. Rd8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 4: r1b2k1r/ppp1bppp/8/1B1Q4/5q2/2P5/PPP2PPP/R3R1K1 w - - 1 0 with expected solution 1. Qd8+ Bxd8 2. Re8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 95, 'move': 'd5d8'}, {'value': 13, 'move': 'e7d8'}, {'value': 103, 'move': 'e1e8'}], Eval is: 9999999, Moves calculated is: 153 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qd8+ Bxd8 2. Re8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 5: 5rkr/pp2Rp2/1b1p1Pb1/3P2Q1/2n3P1/2p5/P4P2/4R1K1 w - - 1 0 with expected solution 1. Qxg6+ fxg6 2. Rg7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 97, 'move': 'g5g6'}, {'value': 11, 'move': 'f7g6'}, {'value': 80, 'move': 'e7g7'}], Eval is: 9999999, Moves calculated is: 111 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxg6+ fxg6 2. Rg7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 6: 1r1kr3/Nbppn1pp/1b6/8/6Q1/3B1P2/Pq3P1P/3RR1K1 w - - 1 0 with expected solution 1. Qxd7+ Kxd7 2. Bb5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'g4d7'}, {'value': 25, 'move': 'd8d7'}, {'value': 108, 'move': 'd3b5'}], Eval is: 9999999, Moves calculated is: 257 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxd7+ Kxd7 2. Bb5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 7: 5rk1/1p1q2bp/p2pN1p1/2pP2Bn/2P3P1/1P6/P4QKP/5R2 w - - 1 0 with expected solution 1. Qxf8+ Bxf8 2. Rxf8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'f2f8'}, {'value': -15, 'move': 'g7f8'}, {'value': 103, 'move': 'f1f8'}], Eval is: 9999999, Moves calculated is: 150 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxf8+ Bxf8 2. Rxf8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 8: r1nk3r/2b2ppp/p3b3/3NN3/Q2P3q/B2B4/P4PPP/4R1K1 w - - 1 0 with expected solution 1. Qd7+ Bxd7 2. Nxf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'a4d7'}, {'value': -10, 'move': 'e6d7'}, {'value': 113, 'move': 'e5f7'}], Eval is: 9999999, Moves calculated is: 264 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qd7+ Bxd7 2. Nxf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 9: r4br1/3b1kpp/1q1P4/1pp1RP1N/p7/6Q1/PPB3PP/2KR4 w - - 1 0 with expected solution 1. Qg6+ hxg6 2. fxg6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 18, 'move': 'g3h4'}, {'value': 26, 'move': 'f7g6'}, {'value': 207, 'move': 'h4f6'}], Eval is: 9999999, Moves calculated is: 1250 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qg6+ hxg6 2. fxg6#
+
+
+INFO:ChessProblemsLogger:Processing problem 10: r1b2k1r/ppppq3/5N1p/4P2Q/4PP2/1B6/PP5P/n2K2R1 w - - 1 0 with expected solution 1. Qxh6+ Rxh6 2. Rg8#  
+INFO:ChessProblemsLogger:Returned move: [{'value': 93, 'move': 'h5h6'}, {'value': 15, 'move': 'h8h6'}, {'value': 106, 'move': 'g1g8'}], Eval is: 9999999, Moves calculated is: 245 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh6+ Rxh6 2. Rg8#  
+
+
+INFO:ChessProblemsLogger:Processing problem 11: r2q1b1r/1pN1n1pp/p1n3k1/4Pb2/2BP4/8/PPP3PP/R1BQ1RK1 w - - 1 0 with expected solution 1. Qg4+ Bxg4 2. Bf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 95, 'move': 'd1g4'}, {'value': 13, 'move': 'f5g4'}, {'value': 103, 'move': 'c4f7'}], Eval is: 9999999, Moves calculated is: 130 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qg4+ Bxg4 2. Bf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 12: 3q2r1/4n2k/p1p1rBpp/PpPpPp2/1P3P1Q/2P3R1/7P/1R5K w - - 1 0 with expected solution 1. Qxh6+ Kxh6 2. Rh3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'h4h6'}, {'value': 25, 'move': 'h7h6'}, {'value': 116, 'move': 'g3h3'}], Eval is: 9999999, Moves calculated is: 110 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh6+ Kxh6 2. Rh3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 13: r2qk2r/pb4pp/1n2Pb2/2B2Q2/p1p5/2P5/2B2PPP/RN2R1K1 w - - 1 0 with expected solution 1. Qg6+ hxg6 2. Bxg6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'f5h5'}, {'value': -20, 'move': 'g7g6'}, {'value': 220, 'move': 'h5g6'}], Eval is: 358, Moves calculated is: 1996 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Qg6+ hxg6 2. Bxg6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 14: 6k1/pp4p1/2p5/2bp4/8/P5Pb/1P3rrP/2BRRN1K b - - 0 1 with expected solution 1... Rg1+ 2. Kxg1 Rxf1# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'g2h2'}, {'value': 25, 'move': 'h1g1'}, {'value': 108, 'move': 'f2g2'}], Eval is: 9999999, Moves calculated is: 111 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Rg1+ 2. Kxg1 Rxf1# 
+
+
+INFO:ChessProblemsLogger:Processing problem 15: rnbqkbn1/ppppp3/7r/6pp/3P1p2/3BP1B1/PPP2PPP/RN1QK1NR w - - 1 0 with expected solution 1. Qxh5+ Rxh5 2. Bg6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 93, 'move': 'd1h5'}, {'value': 15, 'move': 'h6h5'}, {'value': 113, 'move': 'd3g6'}], Eval is: 9999999, Moves calculated is: 106 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh5+ Rxh5 2. Bg6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 16: r2qrb2/p1pn1Qp1/1p4Nk/4PR2/3n4/7N/P5PP/R6K w - - 1 0 with expected solution 1. Ne7 Nxf5 2. Qg6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 21, 'move': 'h3f4'}, {'value': 26, 'move': 'd8b8'}, {'value': 103, 'move': 'f5h5'}], Eval is: 9999999, Moves calculated is: 260 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Ne7 Nxf5 2. Qg6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 17: 8/2r5/1k5p/1pp4P/8/K2P4/PR2QB2/2q5 b - - 0 1 with expected solution 1... Qc3+ 2. Rb3 Ra7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'c1c3'}, {'value': -13, 'move': 'b2b3'}, {'value': 130, 'move': 'c7a7'}], Eval is: 9999999, Moves calculated is: 170 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qc3+ 2. Rb3 Ra7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 18: r1b3nr/ppqk1Bbp/2pp4/4P1B1/3n4/3P4/PPP2QPP/R4RK1 w - - 1 0 with expected solution 1. Qf5+ Nxf5 2. e6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 95, 'move': 'f2f5'}, {'value': -12, 'move': 'd4f5'}, {'value': 99, 'move': 'f7e6'}], Eval is: 206, Moves calculated is: 601 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Qf5+ Nxf5 2. e6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 19: 3k1r1r/pb3p2/1p4p1/1B2B3/3qn3/6QP/P4RP1/2R3K1 w - - 1 0 with expected solution 1. Bf6+ Qxf6 2. Qc7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 94, 'move': 'e5f6'}, {'value': 17, 'move': 'e4f6'}, {'value': 108, 'move': 'g3c7'}], Eval is: 9999999, Moves calculated is: 407 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Bf6+ Qxf6 2. Qc7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 20: rn2kb1r/1pQbpppp/1p6/qp1N4/6n1/8/PPP3PP/2KR2NR w - - 1 0 with expected solution 1. Qc8+ Bxc8 2. Nc7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 95, 'move': 'c7c8'}, {'value': 13, 'move': 'd7c8'}, {'value': 113, 'move': 'd5c7'}], Eval is: 9999999, Moves calculated is: 132 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qc8+ Bxc8 2. Nc7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 21: r2k2nr/pp1b1Q1p/2n4b/3N4/3q4/3P4/PPP3PP/4RR1K w - - 1 0 with expected solution 1. Re8+ Bxe8 2. Qc7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 120, 'move': 'e1e8'}, {'value': -15, 'move': 'd7e8'}, {'value': 106, 'move': 'f7c7'}], Eval is: 9999999, Moves calculated is: 260 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Re8+ Bxe8 2. Qc7#
+
+
+INFO:ChessProblemsLogger:Processing problem 22: 7k/1p4p1/p4b1p/3N3P/2p5/2rb4/PP2r3/K2R2R1 b - - 0 1 with expected solution 1... Rc1+ 2. Rxc1 Bxb2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'c3c1'}, {'value': 15, 'move': 'd1c1'}, {'value': 103, 'move': 'f6b2'}], Eval is: 9999999, Moves calculated is: 108 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Rc1+ 2. Rxc1 Bxb2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 23: r2q2nr/5p1p/p1Bp3b/1p1NkP2/3pP1p1/2PP2P1/PP5P/R1Bb1RK1 w - - 1 0 with expected solution 1. Bf4+ Bxf4 2. gxf4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'c1f4'}, {'value': -16, 'move': 'h6f4'}, {'value': 30, 'move': 'g1f2'}], Eval is: 164, Moves calculated is: 512 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Bf4+ Bxf4 2. gxf4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 24: r2q1k1r/ppp1bB1p/2np4/6N1/3PP1bP/8/PPP5/RNB2RK1 w - - 1 0 with expected solution 1. Ne6+ Bxe6 2. Bh6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 13, 'move': 'f7g6'}, {'value': 30, 'move': 'h8g8'}, {'value': 90, 'move': 'g5e6'}], Eval is: 9999999, Moves calculated is: 846 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Ne6+ Bxe6 2. Bh6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 25: 6k1/1p1r1pp1/p1r3b1/3pPqB1/2pP4/Q1P4R/P3P2K/6R1 w - - 1 0 with expected solution 1. Qf8+ Kxf8 2. Rh8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'a3f8'}, {'value': 25, 'move': 'g8f8'}, {'value': 115, 'move': 'h3h8'}], Eval is: 9999999, Moves calculated is: 141 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qf8+ Kxf8 2. Rh8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 26: r1b3k1/ppp3pp/8/3pB3/1P1P4/3K1P2/PP1n1q1P/R2Q3R b - - 0 1 with expected solution 1... Bf5+ 2. Kc3 Qe3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'c8f5'}, {'value': 25, 'move': 'd3c3'}, {'value': 118, 'move': 'f2e3'}], Eval is: 9999999, Moves calculated is: 314 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Bf5+ 2. Kc3 Qe3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 27: 2kr1b1r/pp3ppp/2p1b2q/4B3/4Q3/2PB2R1/PPP2PPP/3R2K1 w - - 1 0 with expected solution 1. Qxc6+ bxc6 2. Ba6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 97, 'move': 'e4c6'}, {'value': 11, 'move': 'b7c6'}, {'value': 92, 'move': 'd3a6'}], Eval is: 178, Moves calculated is: 2337 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxc6+ bxc6 2. Ba6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 28: rn2kb1r/pp3ppp/4p1qn/1p4B1/2B5/3P2QP/PPP2PP1/R3K2R w - - 1 0 with expected solution 1. Qxb8+ Rxb8 2. Bxb5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 93, 'move': 'g3b8'}, {'value': 25, 'move': 'e8d7'}, {'value': 113, 'move': 'c4b5'}], Eval is: 9999999, Moves calculated is: 204 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxb8+ Rxb8 2. Bxb5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 29: rnb2b1r/p3kBp1/3pNn1p/2pQN3/1p2PP2/4B3/Pq5P/4K3 w - - 1 0 with expected solution 1. Qxd6+ Kxd6 2. Bxc5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'd5d6'}, {'value': 25, 'move': 'e7d6'}, {'value': 101, 'move': 'e3c5'}], Eval is: 9999999, Moves calculated is: 287 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxd6+ Kxd6 2. Bxc5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 30: r1b1k2r/ppQ1q2n/2p2p2/P3p2p/N3P1pP/1B4P1/1PP2P2/3R1NK1 w - - 1 0 with expected solution 1. Rd8+ Qxd8 2. Qf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 115, 'move': 'd1d8'}, {'value': -10, 'move': 'e7d8'}, {'value': 206, 'move': 'c7f7'}], Eval is: 9999999, Moves calculated is: 163 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rd8+ Qxd8 2. Qf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 31: r6k/pp4pp/1b1P4/8/1n4Q1/2N1RP2/PPq3p1/1RB1K3 b - - 0 1 with expected solution 1... Nd3+ 2. Rxd3 Bf2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 116, 'move': 'b4d3'}, {'value': -13, 'move': 'e3d3'}, {'value': 106, 'move': 'b6f2'}], Eval is: 9999999, Moves calculated is: 113 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Nd3+ 2. Rxd3 Bf2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 32: 8/1r5p/kpQ3p1/p3rp2/P6P/8/4bPPK/1R6 w - - 1 0 with expected solution 1. Rxb6+ Rxb6 2. Qa8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'b1b6'}, {'value': 25, 'move': 'a6a7'}, {'value': 208, 'move': 'c6b7'}], Eval is: 9999999, Moves calculated is: 143 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxb6+ Rxb6 2. Qa8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 33: r1b2rk1/2p2ppp/p7/1p6/3P3q/1BP3bP/PP3QP1/RNB1R1K1 w - - 1 0 with expected solution 1. Qxf7+ Rxf7 2. Re8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 116, 'move': 'f2f7'}, {'value': 25, 'move': 'g8h8'}, {'value': 118, 'move': 'f7f8'}], Eval is: 9999999, Moves calculated is: 172 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxf7+ Rxf7 2. Re8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 34: r2qkb1r/2p1nppp/p2p4/np1NN3/4P3/1BP5/PP1P1PPP/R1B1K2R w - - 1 0 with expected solution 1. Nf6+ gxf6 2. Bxf7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'd5f6'}, {'value': 12, 'move': 'g7f6'}, {'value': 101, 'move': 'b3f7'}], Eval is: 9999999, Moves calculated is: 97 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Nf6+ gxf6 2. Bxf7#
+
+
+INFO:ChessProblemsLogger:Processing problem 35: rnbkn2r/pppp1Qpp/5b2/3NN3/3Pp3/8/PPP1KP1P/R1B4q w - - 1 0 with expected solution 1. Qe7+ Bxe7 2. Nf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'f7e7'}, {'value': -10, 'move': 'f6e7'}, {'value': 113, 'move': 'e5f7'}], Eval is: 9999999, Moves calculated is: 117 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qe7+ Bxe7 2. Nf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 36: 4rk2/2pQn2p/p4p2/1p2pN1P/4q3/2P3R1/5PPK/8 w - - 1 0 with expected solution 1. Rg8+ Kf7 2. Nh6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'g3g8'}, {'value': 25, 'move': 'f8g8'}, {'value': 118, 'move': 'd7e8'}], Eval is: 9999999, Moves calculated is: 140 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Rg8+ Kf7 2. Nh6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 37: r1b2rk1/pp3ppp/3p4/3Q1nq1/2B1R3/8/PP3PPP/R5K1 w - - 1 0 with expected solution 1. Qxf7+ Rxf7 2. Re8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 93, 'move': 'd5f7'}, {'value': 25, 'move': 'g8h8'}, {'value': 118, 'move': 'f7f8'}], Eval is: 9999999, Moves calculated is: 133 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxf7+ Rxf7 2. Re8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 38: 7r/p3ppk1/3p4/2p1P1Kp/2Pb4/3P1QPq/PP5P/R6R b - - 0 1 with expected solution 1... Be3+ 2. Qxe3 Qg4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 89, 'move': 'h3g3'}, {'value': 25, 'move': 'g5f5'}, {'value': 107, 'move': 'g3e5'}], Eval is: 9999999, Moves calculated is: 169 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... Be3+ 2. Qxe3 Qg4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 39: rn2kb1r/ppp1pppp/8/8/4q3/3P1N1b/PPP1BPnP/RNBQ1K1R b kq - 0 1 with expected solution 1... Nh4+ 2. Ke1 Nxf3#
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'g2e3'}, {'value': 25, 'move': 'f1g1'}, {'value': 124, 'move': 'e4g4'}], Eval is: 9999999, Moves calculated is: 121 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... Nh4+ 2. Ke1 Nxf3#
+
+
+INFO:ChessProblemsLogger:Processing problem 40: r1b1kb1r/pp1n1pp1/1qp1p2p/6B1/2PPQ3/3B1N2/P4PPP/R4RK1 w - - 1 0 with expected solution 1. Qxe6+ fxe6 2. Bg6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 97, 'move': 'e4e6'}, {'value': 11, 'move': 'f7e6'}, {'value': 92, 'move': 'd3g6'}], Eval is: 178, Moves calculated is: 2008 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxe6+ fxe6 2. Bg6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 41: 6k1/5p2/1p5p/p4Np1/5q2/Q6P/PPr5/3R3K w - - 1 0 with expected solution 1. Qf8+ Kxf8 2. Rd8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'a3f8'}, {'value': 25, 'move': 'g8f8'}, {'value': 115, 'move': 'd1d8'}], Eval is: 9999999, Moves calculated is: 297 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qf8+ Kxf8 2. Rd8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 42: r3q3/ppp3k1/3p3R/5b2/2PR3Q/2P1PrP1/P7/4K3 w - - 1 0 with expected solution 1. Qf6+ Kg8 2. Rh8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 108, 'move': 'h4f6'}, {'value': 25, 'move': 'g7g8'}, {'value': 208, 'move': 'h6h8'}], Eval is: 9999999, Moves calculated is: 220 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qf6+ Kg8 2. Rh8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 43: r3k2r/1Bp2ppp/8/4q1b1/pP1n4/P1KP3P/1BP5/R2Q3R b - - 0 1 with expected solution 1... Nb5+ 2. Kc4 Nd6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 120, 'move': 'd4b5'}, {'value': 25, 'move': 'c3c4'}, {'value': 121, 'move': 'b5d6'}], Eval is: 9999999, Moves calculated is: 154 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Nb5+ 2. Kc4 Nd6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 44: r1bq2rk/pp3pbp/2p1p1pQ/7P/3P4/2PB1N2/PP3PPR/2KR4 w - - 1 0 with expected solution 1. Qxh7+ Kxh7 2. hxg6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'h6h7'}, {'value': 25, 'move': 'h8h7'}, {'value': 84, 'move': 'f3g5'}], Eval is: 142, Moves calculated is: 731 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh7+ Kxh7 2. hxg6# 
+
+
+INFO:ChessProblemsLogger:Skipping problem 45: k1n3rr/Pp3p2/3q4/3N4/3Pp2p/1Q2P1p1/3B1PP1/R4RK1 w - - 1 0 with solution 1. Qxb7+ Kxb7 2. a8=Q#  due to pawn promotion
+INFO:ChessProblemsLogger:Processing problem 46: 8/1p3k2/4p1rp/p3Pp1Q/3qnP2/1P6/P6P/2R2R1K b - - 0 1 with expected solution 1... Qg1+ 2. Rxg1 Nf2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'd4g1'}, {'value': -10, 'move': 'f1g1'}, {'value': 113, 'move': 'e4f2'}], Eval is: 9999999, Moves calculated is: 185 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qg1+ 2. Rxg1 Nf2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 47: r1bq3r/ppp1b1kp/2n3p1/3B3Q/3p4/8/PPP2PPP/RNB2RK1 w - - 1 0 with expected solution 1. Bh6+ Kf6 2. Qg5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 95, 'move': 'h5e5'}, {'value': 25, 'move': 'g7f8'}, {'value': 118, 'move': 'e5h8'}], Eval is: 9999999, Moves calculated is: 217 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Bh6+ Kf6 2. Qg5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 48: 4r3/pbpn2n1/1p1prp1k/8/2PP2PB/P5N1/2B2R1P/R5K1 w - - 1 0 with expected solution 1. Rxf6+ Nxf6 2. g5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 13, 'move': 'g3e2'}, {'value': 28, 'move': 'h6h5'}, {'value': 99, 'move': 'g4g5'}], Eval is: 9999999, Moves calculated is: 400 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxf6+ Nxf6 2. g5#
+
+
+INFO:ChessProblemsLogger:Processing problem 49: 1q5r/1b1r1p1k/2p1pPpb/p1Pp4/3B1P1Q/1P4P1/P4KB1/2RR4 w - - 1 0 with expected solution 1. Qxh6+ Kxh6 2. Rh1# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'h4h6'}, {'value': 25, 'move': 'h7h6'}, {'value': 118, 'move': 'd1h1'}], Eval is: 9999999, Moves calculated is: 127 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh6+ Kxh6 2. Rh1# 
+
+
+INFO:ChessProblemsLogger:Processing problem 50: r4R2/1b2n1pp/p2Np1k1/1pn5/4pP1P/8/PPP1B1P1/2K4R w - - 1 0 with expected solution 1. h5+ Kh6 2. Nf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 99, 'move': 'e2h5'}, {'value': 25, 'move': 'g6h5'}, {'value': 116, 'move': 'f8f5'}], Eval is: 190, Moves calculated is: 533 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. h5+ Kh6 2. Nf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 51: r1bqk2r/bppp1ppp/8/PB2N3/3n4/B7/2PPQnPP/RN2K2R w KQkq - 1 0 with expected solution 1. Nxd7+ Nxe2 2. Nf6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 85, 'move': 'b5d7'}, {'value': 18, 'move': 'd8d7'}, {'value': 38, 'move': 'h1f1'}], Eval is: 105, Moves calculated is: 507 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Nxd7+ Nxe2 2. Nf6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 52: 1r4k1/3b2pp/1b1pP2r/pp1P4/4q3/8/PP4RP/2Q2R1K b - - 0 1 with expected solution 1... Rxh2+ 2. Kxh2 Qh4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'h6h2'}, {'value': 25, 'move': 'h1h2'}, {'value': 118, 'move': 'e4h4'}], Eval is: 9999999, Moves calculated is: 153 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Rxh2+ 2. Kxh2 Qh4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 53: 8/2k2p2/2b3p1/P1p1Np2/1p3b2/1P1K4/5r2/R3R3 b - - 0 1 with expected solution 1... Bb5+ 2. Nc4 Rd2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 115, 'move': 'f2f3'}, {'value': 25, 'move': 'd3c4'}, {'value': 80, 'move': 'f3c3'}], Eval is: 9999999, Moves calculated is: 121 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Bb5+ 2. Nc4 Rd2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 54: r4r1k/2qb3p/p2p1p2/1pnPN3/2p1Pn2/2P1N3/PPB1QPR1/6RK w - - 1 0 with expected solution 1. Rg8+ Rxg8 2. Nf7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'g2g8'}, {'value': -10, 'move': 'f8g8'}, {'value': 113, 'move': 'e5f7'}], Eval is: 9999999, Moves calculated is: 269 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rg8+ Rxg8 2. Nf7#
+
+
+INFO:ChessProblemsLogger:Processing problem 55: 1r2q3/1R6/3p1kp1/1ppBp1b1/p3Pp2/2PP4/PP3P2/5K1Q w - - 1 0 with expected solution 1. Qh8+ Qxh8 2. Rf7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'h1h8'}, {'value': 18, 'move': 'e8h8'}, {'value': 103, 'move': 'b7f7'}], Eval is: 9999999, Moves calculated is: 140 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qh8+ Qxh8 2. Rf7#
+
+
+INFO:ChessProblemsLogger:Processing problem 56: r3kb1r/pb6/2p2p1p/1p2pq2/2pQ3p/2N2B2/PP3PPP/3RR1K1 w - - 1 0 with expected solution 1. Bh5+ Qxh5 2. Qd7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 84, 'move': 'f3h5'}, {'value': 25, 'move': 'e8e7'}, {'value': 83, 'move': 'd4d6'}], Eval is: 9999999, Moves calculated is: 456 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Bh5+ Qxh5 2. Qd7#
+
+
+INFO:ChessProblemsLogger:Processing problem 57: 4r3/2q1rpk1/p3bN1p/2p3p1/4QP2/2N4P/PP4P1/5RK1 w - - 1 0 with expected solution 1. Qh7+ Kxf6 2. Ne4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 106, 'move': 'e4h7'}, {'value': 25, 'move': 'g7f8'}, {'value': 118, 'move': 'h7h6'}], Eval is: 9999999, Moves calculated is: 150 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qh7+ Kxf6 2. Ne4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 58: r5rk/pp1np1bn/2pp2q1/3P1bN1/2P1N2Q/1P6/PB2PPBP/3R1RK1 w - - 1 0 with expected solution 1. Qxh7+ Qxh7 2. Nf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'h4h7'}, {'value': -5, 'move': 'g6h7'}, {'value': 113, 'move': 'g5f7'}], Eval is: 9999999, Moves calculated is: 141 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh7+ Qxh7 2. Nf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 59: rn1qkb1r/4p2p/2p2nN1/p4p1Q/PpBP4/8/1P3PPP/R1B1K2R w - - 1 0 with expected solution 1. Ne5+ Nxh5 2. Bf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 21, 'move': 'g6h4'}, {'value': 39, 'move': 'f6d7'}, {'value': 206, 'move': 'c4f7'}], Eval is: 9999999, Moves calculated is: 665 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Ne5+ Nxh5 2. Bf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 60: r1b2rk1/ppppbpp1/7p/4R3/6Qq/2BB4/PPP2PPP/R5K1 w - - 1 0 with expected solution 1. Qxg7+ Kxg7 2. Rg5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'g4g7'}, {'value': 25, 'move': 'g8g7'}, {'value': 84, 'move': 'e5g5'}], Eval is: 9999999, Moves calculated is: 177 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxg7+ Kxg7 2. Rg5#
+
+
+INFO:ChessProblemsLogger:Processing problem 61: 1r3k2/2n1p1b1/3p2QR/p1pq1pN1/bp6/7P/2P2PP1/4RBK1 w - - 1 0 with expected solution 1. Rh8+ Bxh8 2. Nh7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 126, 'move': 'h6h7'}, {'value': 33, 'move': 'f8g8'}, {'value': 208, 'move': 'g6g7'}], Eval is: 9999999, Moves calculated is: 158 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rh8+ Bxh8 2. Nh7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 62: 5b2/1p3rpk/p1b3Rp/4B1RQ/3P1p1P/7q/5P2/6K1 w - - 1 0 with expected solution 1. Rxh6+ gxh6 2. Qg6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 187, 'move': 'g6h6'}, {'value': 25, 'move': 'h7g8'}, {'value': 80, 'move': 'h6h8'}], Eval is: 9999999, Moves calculated is: 75 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxh6+ gxh6 2. Qg6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 63: r2Rnk1r/1p2q1b1/7p/6pQ/4Ppb1/1BP5/PP3BPP/2K4R w - - 1 0 with expected solution 1. Qxe8+ Qxe8 2. Bc5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 18, 'move': 'h5g6'}, {'value': 22, 'move': 'e7a3'}, {'value': 208, 'move': 'g6e8'}], Eval is: 9999999, Moves calculated is: 808 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxe8+ Qxe8 2. Bc5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 64: r2qr2k/pp1b3p/2nQ4/2pB1p1P/3n1PpR/2NP2P1/PPP5/2K1R1N1 w - - 1 0 with expected solution 1. Rxe8+ Bxe8 2. Qf8#
+INFO:ChessProblemsLogger:Returned move: [{'value': 84, 'move': 'e1e8'}, {'value': 25, 'move': 'h8g7'}, {'value': 108, 'move': 'd6f8'}], Eval is: 9999999, Moves calculated is: 308 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxe8+ Bxe8 2. Qf8#
+
+
+INFO:ChessProblemsLogger:Processing problem 65: 4r3/p2r1p1k/3q1Bpp/4P3/1PppR3/P5P1/5P1P/2Q3K1 w - - 1 0 with expected solution 1. Qxh6+ Kxh6 2. Rh4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'c1h6'}, {'value': 25, 'move': 'h7h6'}, {'value': 118, 'move': 'e4h4'}], Eval is: 9999999, Moves calculated is: 115 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh6+ Kxh6 2. Rh4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 66: r3n1rk/q3NQ1p/p2pbP2/1p4p1/1P1pP1P1/3R4/P1P4P/3B2K1 w - - 1 0 with expected solution 1. Qxh7+ Kxh7 2. Rh3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'f7h7'}, {'value': 25, 'move': 'h8h7'}, {'value': 116, 'move': 'd3h3'}], Eval is: 9999999, Moves calculated is: 245 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh7+ Kxh7 2. Rh3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 67: 8/2r2pk1/3p2p1/3Pb3/2P1P2K/6r1/1R2B3/1R6 b - - 0 1 with expected solution 1... Kh6 2. c5 g5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 129, 'move': 'e5f6'}], Eval is: 9999999, Moves calculated is: 1 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... Kh6 2. c5 g5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 68: 8/8/p3p3/3b1pR1/1B3P1k/8/4r1PK/8 w - - 1 0 with expected solution 1. Be1+ Rxe1 2. g3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 25, 'move': 'h2h1'}, {'value': 92, 'move': 'e2e1'}, {'value': 113, 'move': 'b4e1'}], Eval is: 9999999, Moves calculated is: 109 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Be1+ Rxe1 2. g3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 69: Q7/2r2rpk/2p4p/7N/3PpN2/1p2P3/1K4R1/5q2 w - - 1 0 with expected solution 1. Rxg7+ Rxg7 2. Nf6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'g2g7'}, {'value': -8, 'move': 'f7g7'}, {'value': 113, 'move': 'h5f6'}], Eval is: 9999999, Moves calculated is: 132 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxg7+ Rxg7 2. Nf6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 70: r3rknQ/1p1R1pb1/p3pqBB/2p5/8/6P1/PPP2P1P/4R1K1 w - - 1 0 with expected solution 1. Qxg7+ Qxg7 2. Rxf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 21, 'move': 'g6h7'}, {'value': 23, 'move': 'e8d8'}, {'value': 106, 'move': 'h8g8'}], Eval is: 9999999, Moves calculated is: 406 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxg7+ Qxg7 2. Rxf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 71: 4rr2/1p5R/3p1p2/p2Bp3/P2bPkP1/1P5R/1P2K3/8 w - - 1 0 with expected solution 1. Rg7 Bxb2 2. Rf3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 20, 'move': 'h7h5'}, {'value': 15, 'move': 'e8d8'}, {'value': 80, 'move': 'h3f3'}], Eval is: 9999999, Moves calculated is: 557 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rg7 Bxb2 2. Rf3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 72: r4kr1/pbNn1q1p/1p6/2p2BPQ/5B2/8/P6P/b4RK1 w - - 1 0 with expected solution 1. Bd6+ Qe7 2. Ne6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'f4d6'}, {'value': 25, 'move': 'f8g7'}, {'value': 106, 'move': 'h5h7'}], Eval is: 9999999, Moves calculated is: 136 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Bd6+ Qe7 2. Ne6#
+
+
+INFO:ChessProblemsLogger:Processing problem 73: 6rk/6pp/5p2/p7/P2Q1N2/4P1P1/2r2n1P/6K1 w - - 1 0 with expected solution 1. Ng6+ hxg6 2. Qh4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'f4g6'}, {'value': 12, 'move': 'h7g6'}, {'value': 118, 'move': 'd4h4'}], Eval is: 9999999, Moves calculated is: 100 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Ng6+ hxg6 2. Qh4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 74: 1n6/p3q2p/2pNk3/1pP1p3/1P2P2Q/2P3P1/6K1/8 w - - 1 0 with expected solution 1. Qh3+ Kf6 2. Qh6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': -22, 'move': 'd6f5'}, {'value': 36, 'move': 'b8d7'}, {'value': 106, 'move': 'h4e7'}], Eval is: 9999999, Moves calculated is: 888 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Qh3+ Kf6 2. Qh6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 75: 6rk/p3p2p/1p2Pp2/2p2P2/2P1nBr1/1P6/P6P/3R1R1K b - - 0 1 with expected solution 1... Rg1+ 2. Rxg1 Nf2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'g4g1'}, {'value': -10, 'move': 'f1g1'}, {'value': 113, 'move': 'e4f2'}], Eval is: 9999999, Moves calculated is: 130 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Rg1+ 2. Rxg1 Nf2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 76: 3rk3/1p3p2/2p5/7P/1P1qpp1R/P5P1/2Q5/3BK3 b - - 0 1 with expected solution 1... Qg1+ 2. Ke2 f3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': -10, 'move': 'd4d3'}, {'value': 33, 'move': 'c2f2'}, {'value': 83, 'move': 'd3d1'}], Eval is: 9999999, Moves calculated is: 1158 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... Qg1+ 2. Ke2 f3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 77: 2QR4/6b1/1p4pk/7p/5n1P/4rq2/5P2/5BK1 w - - 1 0 with expected solution 1. Rh8+ Bxh8 2. Qxh8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'd8h8'}, {'value': -15, 'move': 'g7h8'}, {'value': 118, 'move': 'c8h8'}], Eval is: 9999999, Moves calculated is: 118 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rh8+ Bxh8 2. Qxh8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 78: r3q1k1/5p2/3P2pQ/Ppp5/1pnbN2R/8/1P4PP/5R1K w - - 1 0 with expected solution 1. Rf6 Bxf6 2. Nxf6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 94, 'move': 'f1f6'}, {'value': 24, 'move': 'e8e5'}, {'value': 83, 'move': 'h6h8'}], Eval is: 9999999, Moves calculated is: 308 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rf6 Bxf6 2. Nxf6#
+
+
+INFO:ChessProblemsLogger:Processing problem 79: 5b2/R4p1p/1r2kp2/1p2pN2/2r1P3/P1P3P1/1PK4P/3R4 w - - 1 0 with expected solution 1. Re7+ Bxe7 2. Ng7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 115, 'move': 'a7e7'}, {'value': -10, 'move': 'f8e7'}, {'value': 113, 'move': 'f5g7'}], Eval is: 9999999, Moves calculated is: 128 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Re7+ Bxe7 2. Ng7#
+
+
+INFO:ChessProblemsLogger:Processing problem 80: r3q1r1/1p2bNkp/p3n3/2PN1B1Q/PP1P1p2/7P/5PP1/6K1 w - - 1 0 with expected solution 1. Qh6+ Kxf7 2. Bxe6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': -5, 'move': 'f7g5'}, {'value': 44, 'move': 'g7f8'}, {'value': 116, 'move': 'g5e6'}], Eval is: 9999999, Moves calculated is: 1201 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qh6+ Kxf7 2. Bxe6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 81: 1r2q2k/4N2p/3p1Pp1/2p1n1P1/2P5/p2P2KQ/P3R3/8 w - - 1 0 with expected solution 1. Qxh7+ Kxh7 2. Rh2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'h3h7'}, {'value': 25, 'move': 'h8h7'}, {'value': 130, 'move': 'e2h2'}], Eval is: 9999999, Moves calculated is: 120 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh7+ Kxh7 2. Rh2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 82: 5R2/4r1r1/1p4k1/p1pB2Bp/P1P4K/2P1p3/1P6/8 w - - 1 0 with expected solution 1. Rf6+ Kh7 2. Rh6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 103, 'move': 'f8f6'}, {'value': 25, 'move': 'g6h7'}, {'value': 103, 'move': 'f6h6'}], Eval is: 9999999, Moves calculated is: 108 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rf6+ Kh7 2. Rh6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 83: 2bq1rk1/r1p1b1pn/p2pP1Np/1p1B1Q2/4P3/2P4P/PP3PP1/R1B1R1K1 w - - 1 0 with expected solution 1. Qf7+ Rxf7 2. exf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 87, 'move': 'g6f8'}, {'value': 25, 'move': 'g8h8'}, {'value': 106, 'move': 'f5h7'}], Eval is: 9999999, Moves calculated is: 292 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Qf7+ Rxf7 2. exf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 84: 1nbk1b1r/1r6/p2P2pp/1B2PpN1/2p2P2/2P1B3/7P/R3K2R w - - 1 0 with expected solution 1. Bb6+ Rxb6 2. Nf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 88, 'move': 'e3b6'}, {'value': 15, 'move': 'b7b6'}, {'value': 113, 'move': 'g5f7'}], Eval is: 9999999, Moves calculated is: 195 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Bb6+ Rxb6 2. Nf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 85: 3r2k1/p1p2p2/bp2p1nQ/4PB1P/2pr3q/6R1/PP3PP1/3R2K1 w - - 1 0 with expected solution 1. Rxg6+ fxg6 2. Bxe6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 226, 'move': 'h6g6'}, {'value': 25, 'move': 'g8h8'}, {'value': 119, 'move': 'g6h6'}], Eval is: 9999999, Moves calculated is: 129 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxg6+ fxg6 2. Bxe6#
+
+
+INFO:ChessProblemsLogger:Processing problem 86: 6k1/3r3p/p1q3pP/1p1p4/3Q4/4R1P1/P4PK1/8 w - - 1 0 with expected solution 1. Qh8+ Kxh8 2. Re8#
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'd4h8'}, {'value': 25, 'move': 'g8h8'}, {'value': 115, 'move': 'e3e8'}], Eval is: 9999999, Moves calculated is: 213 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qh8+ Kxh8 2. Re8#
+
+
+INFO:ChessProblemsLogger:Processing problem 87: 2k4r/ppp5/4bqp1/3p2Q1/6n1/2NB3P/PPP2bP1/R1B2R1K b - - 0 1 with expected solution 1... Rxh3+ 2. gxh3 Qf3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 94, 'move': 'h8h3'}, {'value': 11, 'move': 'g2h3'}, {'value': 118, 'move': 'f6f3'}], Eval is: 9999999, Moves calculated is: 138 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Rxh3+ 2. gxh3 Qf3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 88: r2r3k/b1qn2pp/1p2Bp2/2p2P2/PP1pQ3/7R/1B3PPP/5RK1 w - - 1 0 with expected solution 1. Rxh7+ Kxh7 2. Qh4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 80, 'move': 'h3h7'}, {'value': 25, 'move': 'h8h7'}, {'value': 118, 'move': 'e4h4'}], Eval is: 9999999, Moves calculated is: 156 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxh7+ Kxh7 2. Qh4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 89: 8/1p3Qb1/p5pk/P1p1p1p1/1P2P1P1/2P1N2n/5P1P/4qB1K w - - 1 0 with expected solution 1. Nf5+ gxf5 2. Qh5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 121, 'move': 'e3f5'}, {'value': 25, 'move': 'h6h7'}, {'value': 106, 'move': 'f7g7'}], Eval is: 9999999, Moves calculated is: 124 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Nf5+ gxf5 2. Qh5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 90: 3rrk2/2p2pR1/p4n2/1p1PpP2/2p2q1P/3P1BQ1/PPP5/6RK w - - 1 0 with expected solution 1. Rxf7+ Kxf7 2. Qg7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 80, 'move': 'g7f7'}, {'value': 25, 'move': 'f8f7'}, {'value': 83, 'move': 'g3g7'}], Eval is: 9999999, Moves calculated is: 164 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxf7+ Kxf7 2. Qg7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 91: r4kr1/1b2R1n1/pq4p1/4Q3/1p4P1/5P2/PPP4P/1K2R3 w - - 1 0 with expected solution 1.Rf7+ Kxf7 2.Qe7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 119, 'move': 'e5f4'}, {'value': -10, 'move': 'b6f6'}, {'value': 118, 'move': 'f4f6'}], Eval is: 9999999, Moves calculated is: 133 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1.Rf7+ Kxf7 2.Qe7#
+
+
+INFO:ChessProblemsLogger:Processing problem 92: 3n4/1R6/p5k1/2B5/1P3PK1/r7/8/8 w - - 1 0 with expected solution 1. f5+ Kf6 2. Bd4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'b7b6'}, {'value': 25, 'move': 'g6h7'}, {'value': 92, 'move': 'b6b7'}], Eval is: 185, Moves calculated is: 241 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. f5+ Kf6 2. Bd4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 93: 1r3rk1/1pnnq1bR/p1pp2B1/P2P1p2/1PP1pP2/2B3P1/5PK1/2Q4R w - - 1 0 with expected solution 1. Rh8+ Bxh8 2. Rxh8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'h7h8'}, {'value': -12, 'move': 'g7h8'}, {'value': 103, 'move': 'h1h8'}], Eval is: 9999999, Moves calculated is: 265 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rh8+ Bxh8 2. Rxh8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 94: b3r1k1/5ppp/p2p4/p4qN1/Q2b4/6R1/5PPP/5RK1 b - - 0 1 with expected solution 1... Qxf2+ 2. Rxf2 Re1# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 116, 'move': 'f5f2'}, {'value': 25, 'move': 'g1h1'}, {'value': 118, 'move': 'f2f1'}], Eval is: 9999999, Moves calculated is: 217 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Qxf2+ 2. Rxf2 Re1# 
+
+
+INFO:ChessProblemsLogger:Processing problem 95: 5r1k/pp1n1p1p/5n1Q/3p1pN1/3P4/1P4RP/P1r1qPP1/R5K1 w - - 1 0 with expected solution 1. Qxf8+ Nxf8 2. Nxf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 95, 'move': 'h6f8'}, {'value': 13, 'move': 'd7f8'}, {'value': 113, 'move': 'g5f7'}], Eval is: 9999999, Moves calculated is: 114 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxf8+ Nxf8 2. Nxf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 96: 5k2/p3Rr2/1p4pp/q4p2/1nbQ1P2/6P1/5N1P/3R2K1 w - - 1 0 with expected solution 1. Re8+ Kxe8 2. Qd8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'd4h8'}], Eval is: 9999999, Moves calculated is: 1 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Re8+ Kxe8 2. Qd8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 97: 4rk2/pp2N1bQ/5p2/8/2q5/P7/3r2PP/4RR1K w - - 1 0 with expected solution 1. Rxf6+ Bxf6 2. Ng6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'f1f6'}, {'value': 13, 'move': 'g7f6'}, {'value': 121, 'move': 'e7g6'}], Eval is: 9999999, Moves calculated is: 416 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxf6+ Bxf6 2. Ng6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 98: r4rk1/4bp2/1Bppq1p1/4p1n1/2P1Pn2/3P2N1/P2Q1PBK/1R5R b - - 0 1 with expected solution 1... Qh3+ 2. Bxh3 Nf3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 121, 'move': 'e6h3'}, {'value': 25, 'move': 'h2g1'}, {'value': 106, 'move': 'h3g2'}], Eval is: 9999999, Moves calculated is: 127 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Qh3+ 2. Bxh3 Nf3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 99: 2q1r3/4pR2/3rQ1pk/p1pnN2p/Pn5B/8/1P4PP/3R3K w - - 1 0 with expected solution 1. Nf3 Qxe6 2. Bg5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 23, 'move': 'e6f6'}, {'value': 28, 'move': 'e8d8'}, {'value': 108, 'move': 'f6g7'}], Eval is: 9999999, Moves calculated is: 572 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Nf3 Qxe6 2. Bg5#
+
+
+INFO:ChessProblemsLogger:Processing problem 100: q2br1k1/1b4pp/3Bp3/p6n/1p3R2/3B1N2/PP2QPPP/6K1 w - - 1 0 with expected solution 1. Qxe6+ Rxe6 2. Rf8#
+INFO:ChessProblemsLogger:Returned move: [{'value': 93, 'move': 'e2e6'}, {'value': 25, 'move': 'g8h8'}, {'value': 118, 'move': 'e6e8'}], Eval is: 9999999, Moves calculated is: 185 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxe6+ Rxe6 2. Rf8#
+
+
+INFO:ChessProblemsLogger:Processing problem 101: 5r1k/p2n1p1p/5P1N/1p1p4/2pP3P/8/PP4RK/8 w - - 1 0 with expected solution 1. Rg8+ Rxg8 2. Nxf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'g2g8'}, {'value': -8, 'move': 'f8g8'}, {'value': 114, 'move': 'h6f7'}], Eval is: 9999999, Moves calculated is: 75 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rg8+ Rxg8 2. Nxf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 102: 8/7p/5pk1/3n2pq/3N1nR1/1P3P2/P6P/4QK2 w - - 1 0  with expected solution 1.Qe8+ Kg7 2.Nf5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'e1e4'}, {'value': 25, 'move': 'g6f7'}, {'value': 118, 'move': 'e4e6'}], Eval is: 211, Moves calculated is: 524 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1.Qe8+ Kg7 2.Nf5#
+
+
+INFO:ChessProblemsLogger:Processing problem 103: 2Q5/pp2rk1p/3p2pq/2bP1r2/5RR1/1P2P3/PB3P1P/7K w - - 1 0 with expected solution 1. Rxf5+ gxf5 2. Qg8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 122, 'move': 'f4f5'}, {'value': -17, 'move': 'g6f5'}, {'value': 108, 'move': 'c8g8'}], Eval is: 9999999, Moves calculated is: 185 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxf5+ gxf5 2. Qg8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 104: 4r1k1/pQ3pp1/7p/4q3/4r3/P7/1P2nPPP/2BR1R1K b - - 0 1 with expected solution 1... Qxh2+ 2. Kxh2 Rh4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'e5h2'}, {'value': 25, 'move': 'h1h2'}, {'value': 115, 'move': 'e4h4'}], Eval is: 9999999, Moves calculated is: 392 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qxh2+ 2. Kxh2 Rh4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 105: 3R1rk1/1pp2pp1/1p6/8/8/P7/1q4BP/3Q2K1 w - - 1 0 with expected solution 1. Rxf8+ Kh7 2. Qh5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 80, 'move': 'd8f8'}, {'value': 25, 'move': 'g8f8'}, {'value': 118, 'move': 'd1d8'}], Eval is: 9999999, Moves calculated is: 128 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxf8+ Kh7 2. Qh5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 106: 6k1/5p2/p3bRpQ/4q3/2r3P1/6NP/P1p2R1K/1r6 w - - 1 0 with expected solution 1. Rxg6+ fxg6 2. Rf8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 122, 'move': 'f6g6'}, {'value': -15, 'move': 'e5g7'}, {'value': 208, 'move': 'h6g7'}], Eval is: 9999999, Moves calculated is: 151 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxg6+ fxg6 2. Rf8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 107: rnb1k2r/pp3ppp/1qp2B2/2bPp3/4P3/2N5/PPP3PP/R2QKBNR b KQkq - 0 1 with expected solution 1... Bf2+ 2. Kd2 Qe3#
+INFO:ChessProblemsLogger:Returned move: [{'value': 78, 'move': 'c5f2'}, {'value': 25, 'move': 'e1e2'}, {'value': 106, 'move': 'b6e3'}], Eval is: 9999999, Moves calculated is: 113 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1... Bf2+ 2. Kd2 Qe3#
+
+
+INFO:ChessProblemsLogger:Processing problem 108: r2r4/pp2ppkp/2P3p1/q1p5/4PQ2/2P2b2/P4PPP/2R1KB1R b - - 0 1 with expected solution 1... Qxc3+ 2. Rxc3 Rd1# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 93, 'move': 'a5c3'}, {'value': 15, 'move': 'c1c3'}, {'value': 103, 'move': 'd8d1'}], Eval is: 9999999, Moves calculated is: 162 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qxc3+ 2. Rxc3 Rd1# 
+
+
+INFO:ChessProblemsLogger:Processing problem 109: 8/8/2N1P3/1P6/4Q3/4b2K/4k3/4q3 w - - 1 0 with expected solution 1. Nd4+ Kd1 2. Qc2#
+INFO:ChessProblemsLogger:Returned move: [{'value': 133, 'move': 'e4g4'}, {'value': 25, 'move': 'e2f2'}, {'value': 83, 'move': 'g4g2'}], Eval is: 9999999, Moves calculated is: 146 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Nd4+ Kd1 2. Qc2#
+
+
+INFO:ChessProblemsLogger:Processing problem 110: 1b2r1k1/3n2p1/p3p2p/1p3r2/3PNp1q/3BnP1P/PP1BQP1K/R6R b - - 0 1 with expected solution 1... Qxh3+ 2. Kxh3 Rh5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'h4h3'}, {'value': 25, 'move': 'h2h3'}, {'value': 116, 'move': 'f5h5'}], Eval is: 9999999, Moves calculated is: 287 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qxh3+ 2. Kxh3 Rh5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 111: 5b2/q4r1p/p3k1p1/2pNppP1/1P6/3Q1P1P/P7/1K1R4 w - - 1 0 with expected solution 1. Nf4+ exf4 2. Qe2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'd5f4'}, {'value': 25, 'move': 'e6e7'}, {'value': 83, 'move': 'd3d8'}], Eval is: 9999999, Moves calculated is: 120 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Nf4+ exf4 2. Qe2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 112: 8/2p5/Q4pk1/p1Pp4/5n2/PP3PK1/2q4N/8 b - - 0 1 with expected solution 1... Qg2+ 2. Kxf4 Qg5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 106, 'move': 'c2g2'}, {'value': 25, 'move': 'g3h4'}, {'value': 106, 'move': 'g2h3'}], Eval is: 9999999, Moves calculated is: 241 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Qg2+ 2. Kxf4 Qg5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 113: r3nr1k/1b2Nppp/pn6/q3p1P1/P1p4Q/R7/1P2PP1P/2B2RK1 w - - 1 0 with expected solution 1. Qxh7+ Kxh7 2. Rh3#
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'h4h7'}, {'value': 25, 'move': 'h8h7'}, {'value': 116, 'move': 'a3h3'}], Eval is: 9999999, Moves calculated is: 184 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh7+ Kxh7 2. Rh3#
+
+
+INFO:ChessProblemsLogger:Processing problem 114: r1b3nr/ppp1kB1p/3p4/8/3PPBnb/1Q3p2/PPP2q2/RN4RK b - - 0 1 with expected solution 1... Qh2+ 2. Bxh2 Nf2#
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'f2h2'}, {'value': -10, 'move': 'f4h2'}, {'value': 117, 'move': 'g4f2'}], Eval is: 9999999, Moves calculated is: 105 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qh2+ 2. Bxh2 Nf2#
+
+
+INFO:ChessProblemsLogger:Processing problem 115: q5k1/5rb1/r6p/1Np1n1p1/3p1Pn1/1N4P1/PP5P/R1BQRK2 b - - 0 1 with expected solution 1... Qh1+ 2. Ke2 Qg2#
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'a8h1'}, {'value': 25, 'move': 'f1e2'}, {'value': 118, 'move': 'h1g2'}], Eval is: 9999999, Moves calculated is: 163 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qh1+ 2. Ke2 Qg2#
+
+
+INFO:ChessProblemsLogger:Processing problem 116: 8/2P2pk1/3Q4/4pq2/7p/6pP/2r3P1/6RK b - - 0 1 with expected solution 1... Qxh3+ 2. gxh3 Rh2#
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'f5h3'}, {'value': -10, 'move': 'g2h3'}, {'value': 80, 'move': 'c2h2'}], Eval is: 9999999, Moves calculated is: 108 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qxh3+ 2. gxh3 Rh2#
+
+
+INFO:ChessProblemsLogger:Processing problem 117: 8/p1R3p1/4p1kn/3p3N/3Pr2P/6P1/PP3K2/8 w - - 1 0 with expected solution 1. Rxg7+ Kxh5 2. Rg5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 103, 'move': 'c7g7'}, {'value': 25, 'move': 'g6f5'}, {'value': 80, 'move': 'g7g5'}], Eval is: 9999999, Moves calculated is: 76 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxg7+ Kxh5 2. Rg5#
+
+
+INFO:ChessProblemsLogger:Processing problem 118: r1b1k2r/1p2bppp/p3q3/1p2p1B1/8/3Q1N2/PPP2PPP/3R1RK1 w kq - 1 0 with expected solution 1. Qd8+ Bxd8 2. Rxd8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 95, 'move': 'd3d8'}, {'value': -12, 'move': 'e7d8'}, {'value': 103, 'move': 'd1d8'}], Eval is: 9999999, Moves calculated is: 189 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qd8+ Bxd8 2. Rxd8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 119: rn2k2r/pp2b2p/2p1Q1p1/5B2/1q3B2/8/PPP3PP/3RR2K w kq - 1 0 with expected solution 1. Rd8+ Kxd8 2. Qc8#
+INFO:ChessProblemsLogger:Returned move: [{'value': 120, 'move': 'f5g6'}, {'value': 25, 'move': 'e8f8'}, {'value': 106, 'move': 'e6f7'}], Eval is: 9999999, Moves calculated is: 264 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Rd8+ Kxd8 2. Qc8#
+
+
+INFO:ChessProblemsLogger:Processing problem 120: r1b1k2r/pp3ppp/2n1p3/6B1/2p1q3/Q7/PP2PPPP/3RKB1R w Kkq - 1 0 with expected solution 1. Rd8+ Nxd8 2. Qe7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 115, 'move': 'd1d8'}, {'value': -10, 'move': 'c6d8'}, {'value': 106, 'move': 'a3e7'}], Eval is: 9999999, Moves calculated is: 158 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rd8+ Nxd8 2. Qe7#
+
+
+INFO:ChessProblemsLogger:Processing problem 121: 2k4r/1pp1n1pp/p1pr1pb1/4p3/Nq2P1P1/1P1PKN1P/2P1QP2/3R3R b - - 0 1 with expected solution 1... Nd5+ 2. exd5 Qf4#
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'e7d5'}, {'value': -15, 'move': 'e4d5'}, {'value': 83, 'move': 'b4f4'}], Eval is: 9999999, Moves calculated is: 127 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Nd5+ 2. exd5 Qf4#
+
+
+INFO:ChessProblemsLogger:Processing problem 122: 5k1r/4npp1/p3p2p/3nP2P/3P3Q/3N4/qB2KPP1/2R5 w - - 1 0 with expected solution 1. Rc8+ Nxc8 2. Qd8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'c1c8'}, {'value': 13, 'move': 'e7c8'}, {'value': 118, 'move': 'h4d8'}], Eval is: 9999999, Moves calculated is: 162 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rc8+ Nxc8 2. Qd8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 123: 2r5/2R5/3npkpp/3bN3/p4PP1/4K3/P1B4P/8 w - - 1 0 with expected solution 1. g5+ hxg5 2. Ng4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 115, 'move': 'c7f7'}, {'value': -10, 'move': 'd6f7'}, {'value': 113, 'move': 'e5d7'}], Eval is: 238, Moves calculated is: 438 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. g5+ hxg5 2. Ng4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 124: 5r1r/1p6/p1p2p2/2P1bPpk/4R3/6PP/P2B2K1/3R4 w - - 1 0 with expected solution 1. Rh4+ gxh4 2. g4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 101, 'move': 'e4h4'}, {'value': -11, 'move': 'g5h4'}, {'value': 30, 'move': 'g2h1'}], Eval is: 142, Moves calculated is: 1468 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Rh4+ gxh4 2. g4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 125: 5qrk/5p1n/pp3p1Q/2pPp3/2P1P1rN/2P4R/P5P1/2B3K1 w - - 1 0 with expected solution 1. Ng6+ R4xg6 2. Qxh7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 91, 'move': 'h4g6'}, {'value': 13, 'move': 'g4g6'}, {'value': 83, 'move': 'h6h7'}], Eval is: 9999999, Moves calculated is: 245 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Ng6+ R4xg6 2. Qxh7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 126: 3rk2r/p1qn1pp1/1p2pb1p/7P/2Pp4/B1P1QP2/P1B1KP2/3R3R w k - 1 0 with expected solution 1. Qxe6+ fxe6 2. Bg6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 13, 'move': 'c2a4'}, {'value': 26, 'move': 'd7b8'}, {'value': 97, 'move': 'e3e6'}], Eval is: 9999999, Moves calculated is: 1446 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxe6+ fxe6 2. Bg6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 127: r3kb1r/q5pp/p1p1Bnn1/1p2Q3/8/2N2PBP/PPP5/2KRR3 w - - 1 0 with expected solution 1. Bf7+ Kxf7 2. Qe6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 85, 'move': 'e6f7'}, {'value': 25, 'move': 'e8f7'}, {'value': 83, 'move': 'e5e6'}], Eval is: 9999999, Moves calculated is: 276 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Bf7+ Kxf7 2. Qe6#
+
+
+INFO:ChessProblemsLogger:Processing problem 128: rq3rk1/3n1pp1/pb4n1/3N2P1/1pB1QP2/4B3/PP6/2KR3R w - - 1 0 with expected solution 1. Ne7+ Nxe7 2. Qh7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'd5e7'}, {'value': -15, 'move': 'g6e7'}, {'value': 108, 'move': 'e4h7'}], Eval is: 9999999, Moves calculated is: 162 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Ne7+ Nxe7 2. Qh7#
+
+
+INFO:ChessProblemsLogger:Processing problem 129: 3q2r1/p2b1k2/1pnBp1N1/3p1pQP/6P1/5R2/2r2P2/4RK2 w - - 1 0 with expected solution 1. Nh8+ Rxh8 2. Qg6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 117, 'move': 'g6e5'}, {'value': 25, 'move': 'f7e8'}, {'value': 118, 'move': 'g5g8'}], Eval is: 9999999, Moves calculated is: 349 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Nh8+ Rxh8 2. Qg6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 130: 8/p4pk1/6p1/3R4/3nqN1P/2Q3P1/5P2/3r1BK1 b - - 0 1 with expected solution 1... Rxf1+ 2. Kxf1 Qh1# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 80, 'move': 'd1f1'}, {'value': 25, 'move': 'g1f1'}, {'value': 118, 'move': 'e4h1'}], Eval is: 9999999, Moves calculated is: 361 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Rxf1+ 2. Kxf1 Qh1# 
+
+
+INFO:ChessProblemsLogger:Processing problem 131: 2r5/3nbkp1/2q1p1p1/1p1n2P1/3P4/2p1P1NQ/1P1B1P2/1B4KR w - - 1 0 with expected solution 1. Bxg6+ Kxg6 2. Qh5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'b1g6'}, {'value': 25, 'move': 'f7g6'}, {'value': 106, 'move': 'h3h5'}], Eval is: 9999999, Moves calculated is: 196 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Bxg6+ Kxg6 2. Qh5#
+
+
+INFO:ChessProblemsLogger:Processing problem 132: r1bq1rkb/ppp2n1p/5n2/4p1NN/5pQ1/1BP5/PP3PPP/R1B1K2R w KQ - 1 0 with expected solution 1. Nxf7+ Nxg4 2. Nh6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 111, 'move': 'b3f7'}, {'value': -8, 'move': 'f8f7'}, {'value': 77, 'move': 'h5f6'}], Eval is: 196, Moves calculated is: 427 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Nxf7+ Nxg4 2. Nh6#
+
+
+INFO:ChessProblemsLogger:Processing problem 133: 4r3/1b2r2p/p2p2k1/P1pP1R1N/3b4/1P1B3P/3n2P1/5R1K w - - 1 0 with expected solution 1. Re5+ Ne4 2. Rf6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': -13, 'move': 'f5e5'}, {'value': 26, 'move': 'g6h6'}, {'value': 118, 'move': 'f1f6'}], Eval is: 9999999, Moves calculated is: 959 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Re5+ Ne4 2. Rf6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 134: 2b3k1/1p5p/2p1n1pQ/3qB3/3P4/3B3P/r5P1/5RK1 w - - 1 0 with expected solution 1. Rf8+ Nxf8 2. Qg7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 220, 'move': 'f1f8'}, {'value': -15, 'move': 'e6f8'}, {'value': 106, 'move': 'h6g7'}], Eval is: 9999999, Moves calculated is: 141 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rf8+ Nxf8 2. Qg7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 135: 3rk2r/1pR2p2/b2BpPp1/p2p4/8/1P6/P4PPP/4R1K1 w - - 1 0 with expected solution 1. Rxe6+ fxe6 2. f7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 17, 'move': 'd6e5'}, {'value': 30, 'move': 'h8f8'}, {'value': 80, 'move': 'c7e7'}], Eval is: 9999999, Moves calculated is: 423 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxe6+ fxe6 2. f7#
+
+
+INFO:ChessProblemsLogger:Processing problem 136: 4nr1k/1bq3pp/5p2/1p2pNQ1/3pP3/1B1P3R/1PP3PP/6K1 w - - 1 0 with expected solution 1. Rxh7+ Kxh7 2. Qh5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 80, 'move': 'h3h7'}, {'value': 25, 'move': 'h8h7'}, {'value': 118, 'move': 'g5h5'}], Eval is: 9999999, Moves calculated is: 201 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxh7+ Kxh7 2. Qh5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 137: r1bk1r2/pp1n2pp/3NQ3/1P6/8/2n2PB1/q1B3PP/3R1RK1 w - - 1 0 with expected solution 1. Nxb7+ Bxb7 2. Qxd7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'e6f6'}, {'value': 25, 'move': 'd8c7'}, {'value': 88, 'move': 'd6e8'}], Eval is: 9999999, Moves calculated is: 379 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Nxb7+ Bxb7 2. Qxd7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 138: 1rb2k2/pp3ppQ/7q/2p1n1N1/2p5/2N5/P3BP1P/K2R4 w - - 1 0 with expected solution 1. Qg8+ Ke7 2. Qd8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'h7h8'}, {'value': 25, 'move': 'f8e7'}, {'value': 108, 'move': 'h8d8'}], Eval is: 9999999, Moves calculated is: 137 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Qg8+ Ke7 2. Qd8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 139: 4r3/5p1k/2p1nBpp/q2p4/P1bP4/2P1R2Q/2B2PPP/6K1 w - - 1 0 with expected solution 1. Qxh6+ Kxh6 2. Rh3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'h3h6'}, {'value': 25, 'move': 'h7h6'}, {'value': 116, 'move': 'e3h3'}], Eval is: 9999999, Moves calculated is: 112 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh6+ Kxh6 2. Rh3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 140: 2r3k1/6pp/4pp2/3bp3/1Pq5/3R1P2/r1PQ2PP/1K1RN3 b - - 0 1 with expected solution 1... Ra1+ 2. Kb2 Qa2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 93, 'move': 'c4b3'}, {'value': 25, 'move': 'b1c1'}, {'value': 115, 'move': 'a2a1'}], Eval is: 9999999, Moves calculated is: 143 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Ra1+ 2. Kb2 Qa2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 141: 6R1/5r1k/p6b/1pB1p2q/1P6/5rQP/5P1K/6R1 w - - 1 0 with expected solution 1. Rh8+ Kxh8 2. Qg8#
+INFO:ChessProblemsLogger:Returned move: [{'value': 80, 'move': 'g8h8'}, {'value': 25, 'move': 'h7h8'}, {'value': 83, 'move': 'g3g8'}], Eval is: 9999999, Moves calculated is: 233 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rh8+ Kxh8 2. Qg8#
+
+
+INFO:ChessProblemsLogger:Processing problem 142: r5q1/pp1b1kr1/2p2p2/2Q5/2PpB3/1P4NP/P4P2/4RK2 w - - 1 0 with expected solution 1. Bg6+ Kxg6 2. Qh5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 88, 'move': 'e4g6'}, {'value': 25, 'move': 'f7g6'}, {'value': 106, 'move': 'c5h5'}], Eval is: 9999999, Moves calculated is: 279 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Bg6+ Kxg6 2. Qh5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 143: 2r1kb1r/p2b1ppp/3p4/Q2Np1B1/4P2P/8/PP4P1/4KB1n w k - 1 0 with expected solution 1. Qd8+ Rxd8 2. Nc7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 116, 'move': 'a5d8'}, {'value': -8, 'move': 'c8d8'}, {'value': 113, 'move': 'd5c7'}], Eval is: 9999999, Moves calculated is: 208 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qd8+ Rxd8 2. Nc7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 144: 5rk1/ppp2pbp/3p2p1/1q6/4r1P1/1NP1B3/PP2nPP1/R2QR2K b - - 0 1 with expected solution 1... Qh5+ 2. gxh5 Rh4#
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'b5h5'}, {'value': -10, 'move': 'g4h5'}, {'value': 115, 'move': 'e4h4'}], Eval is: 9999999, Moves calculated is: 162 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qh5+ 2. gxh5 Rh4#
+
+
+INFO:ChessProblemsLogger:Processing problem 145: r2q1bk1/5n1p/2p3pP/p7/3Br3/1P3PQR/P5P1/2KR4 w - - 1 0 with expected solution 1. Qxg6+ hxg6 2. h7#  
+INFO:ChessProblemsLogger:Returned move: [{'value': 97, 'move': 'g3g6'}, {'value': 11, 'move': 'h7g6'}, {'value': 30, 'move': 'd1d2'}], Eval is: 116, Moves calculated is: 567 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxg6+ hxg6 2. h7#  
+
+
+INFO:ChessProblemsLogger:Processing problem 146: 2b5/k2n1p2/p2q4/5R1B/2p4P/P1b5/KPQ1R3/6r1 b - - 0 1 with expected solution 1... Qxa3+ 2. Kxa3 Ra1# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 82, 'move': 'd6a3'}, {'value': 25, 'move': 'a2a3'}, {'value': 115, 'move': 'g1a1'}], Eval is: 9999999, Moves calculated is: 180 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qxa3+ 2. Kxa3 Ra1# 
+
+
+INFO:ChessProblemsLogger:Processing problem 147: 4Q3/r4ppk/3p3p/4pPbB/2P1P3/1q5P/6P1/3R3K w - - 1 0 with expected solution 1. Bg6+ fxg6 2. fxg6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 16, 'move': 'h5f7'}, {'value': 23, 'move': 'b3a3'}, {'value': 206, 'move': 'e8g8'}], Eval is: 9999999, Moves calculated is: 516 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Bg6+ fxg6 2. fxg6#
+
+
+INFO:ChessProblemsLogger:Processing problem 148: rn5r/p4pp1/3n3p/qB1k4/3P4/4P3/PP2NPPP/R4K1R w - - 1 0 with expected solution 1. Nf4+ Ke4 2. Bd3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'e2f4'}, {'value': 25, 'move': 'd5e4'}, {'value': 101, 'move': 'b5d3'}], Eval is: 9999999, Moves calculated is: 75 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Nf4+ Ke4 2. Bd3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 149: r2r2k1/pp2bppp/2p1p3/4qb1P/8/1BP1BQ2/PP3PP1/2KR3R b - - 0 1 with expected solution 1... Qxc3+ 2. bxc3 Ba3#
+INFO:ChessProblemsLogger:Returned move: [{'value': 13, 'move': 'e5e4'}, {'value': 20, 'move': 'h1g1'}, {'value': 83, 'move': 'e4b1'}], Eval is: 9999999, Moves calculated is: 1670 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... Qxc3+ 2. bxc3 Ba3#
+
+
+INFO:ChessProblemsLogger:Processing problem 150: 5R2/6k1/3K4/p6r/1p1NB3/1P4r1/8/8 w - - 1 0 with expected solution 1. Ne6+ Kh6 2. Rh8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 128, 'move': 'd4e6'}, {'value': 25, 'move': 'g7h6'}, {'value': 115, 'move': 'f8h8'}], Eval is: 9999999, Moves calculated is: 123 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Ne6+ Kh6 2. Rh8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 151: 5r2/1qp2pp1/bnpk3p/4NQ2/2P5/1P5P/5PP1/4R1K1 w - - 1 0 with expected solution 1. Nxf7+ Rxf7 2. c5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'f5d7'}, {'value': 25, 'move': 'd6c5'}, {'value': 121, 'move': 'e5d3'}], Eval is: 9999999, Moves calculated is: 342 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Nxf7+ Rxf7 2. c5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 152: 3nk1r1/1pq4p/p3PQpB/5p2/2r5/8/P4PPP/3RR1K1 w - - 1 0 with expected solution 1. Rxd8+ Qxd8 2. Qf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 215, 'move': 'd1d8'}, {'value': -10, 'move': 'c7d8'}, {'value': 83, 'move': 'f6f7'}], Eval is: 9999999, Moves calculated is: 138 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxd8+ Qxd8 2. Qf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 153: 5rk1/5ppp/pq6/1r3n2/2Q2P2/1P1N4/P1P1R1PP/4R2K b - - 0 1 with expected solution 1... Ng3+ 2. hxg3 Rh5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'f5g3'}, {'value': 12, 'move': 'h2g3'}, {'value': 115, 'move': 'b5h5'}], Eval is: 9999999, Moves calculated is: 153 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Ng3+ 2. hxg3 Rh5#
+
+
+INFO:ChessProblemsLogger:Processing problem 154: 1k3r2/4R1Q1/p2q1r2/8/2p1Bb2/5R2/pP5P/K7 w - - 1 0 with expected solution 1. Re8+ Rxe8 2. Qb7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'e7e8'}, {'value': 15, 'move': 'f8e8'}, {'value': 106, 'move': 'g7b7'}], Eval is: 9999999, Moves calculated is: 334 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Re8+ Rxe8 2. Qb7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 155: 2k1r2r/ppp3p1/3b4/3pq2b/7p/2NP1P2/PPP2Q1P/R5RK b - - 0 1 with expected solution 1... Bxf3+ 2. Rg2 Qxh2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'e5h2'}, {'value': -5, 'move': 'f2h2'}, {'value': 113, 'move': 'h5f3'}], Eval is: 208, Moves calculated is: 2013 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Bxf3+ 2. Rg2 Qxh2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 156: 3k4/1p3Bp1/p5r1/2b5/P3P1N1/5Pp1/1P1r4/2R4K b - - 0 1 with expected solution 1... Rh2+ 2. Nxh2 g2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'g6h6'}, {'value': -8, 'move': 'g4h6'}, {'value': 80, 'move': 'd2h2'}], Eval is: 9999999, Moves calculated is: 147 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Rh2+ 2. Nxh2 g2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 157: 6k1/1r4np/pp1p1R1B/2pP2p1/P1P5/1n5P/6P1/4R2K w - - 1 0 with expected solution 1. Re8+ Nxe8 2. Rf8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'e1e8'}, {'value': 13, 'move': 'g7e8'}, {'value': 103, 'move': 'f6f8'}], Eval is: 9999999, Moves calculated is: 100 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Re8+ Nxe8 2. Rf8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 158: 8/p2q1p1k/4pQp1/1p1b2Bp/7P/8/5PP1/6K1 w - - 1 0 with expected solution 1. Bh6 Kxh6 2. Qh8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'f6f7'}, {'value': 25, 'move': 'h7h8'}, {'value': 221, 'move': 'g5f6'}], Eval is: 9999999, Moves calculated is: 82 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Bh6 Kxh6 2. Qh8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 159: r7/6R1/ppkqrn1B/2pp3p/P6n/2N5/8/1Q1R1K2 w - - 1 0 with expected solution 1. Qb5+ axb5 2. axb5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 120, 'move': 'b1b5'}, {'value': -12, 'move': 'a6b5'}, {'value': 87, 'move': 'g7c7'}], Eval is: 219, Moves calculated is: 455 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Qb5+ axb5 2. axb5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 160: r2q1k1r/3bnp2/p1n1pNp1/3pP1Qp/Pp1P4/2PB4/5PPP/R1B2RK1 w - - 1 0 with expected solution 1. Qh6+ Rxh6 2. Bxh6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 93, 'move': 'g5h6'}, {'value': -8, 'move': 'h8h6'}, {'value': 113, 'move': 'c1h6'}], Eval is: 9999999, Moves calculated is: 141 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qh6+ Rxh6 2. Bxh6#
+
+
+INFO:ChessProblemsLogger:Processing problem 161: 6rk/1r2pR1p/3pP1pB/2p1p3/P6Q/P1q3P1/7P/5BK1 w - - 1 0 with expected solution 1. Rxh7+ Kxh7 2. Bf8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 123, 'move': 'h4f6'}, {'value': -14, 'move': 'e7f6'}, {'value': 113, 'move': 'h6g7'}], Eval is: 250, Moves calculated is: 497 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxh7+ Kxh7 2. Bf8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 162: 1r2Rr2/3P1p1k/5Rpp/qp6/2pQ4/7P/5PPK/8 w - - 1 0 with expected solution 1. Rxf7+ Rxf7 2. Qh8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'f6f7'}, {'value': 25, 'move': 'h7g8'}, {'value': 108, 'move': 'd4g7'}], Eval is: 9999999, Moves calculated is: 144 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxf7+ Rxf7 2. Qh8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 163: r4rk1/5Rbp/p1qN2p1/P1n1P3/8/1Q3N1P/5PP1/5RK1 w - - 1 0 with expected solution 1. Rxf8+ Kxf8 2. Qf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 87, 'move': 'f7f8'}, {'value': 25, 'move': 'g8f8'}, {'value': 106, 'move': 'b3f7'}], Eval is: 9999999, Moves calculated is: 159 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxf8+ Kxf8 2. Qf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 164: 7R/3r4/8/3pkp1p/5N1P/b3PK2/5P2/8 w - - 1 0 with expected solution 1. Rh6 Re7 2. Nd3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'f4d3'}, {'value': 25, 'move': 'e5f6'}, {'value': 115, 'move': 'h8h6'}], Eval is: 203, Moves calculated is: 687 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Rh6 Re7 2. Nd3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 165: 8/1R3p2/3rk2p/p2p2p1/P2P2P1/3B1PN1/5K1P/r7 w - - 1 0 with expected solution 1. Bf5+ Kf6 2. Nh5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 101, 'move': 'd3f5'}, {'value': 25, 'move': 'e6f6'}, {'value': 116, 'move': 'g3e4'}], Eval is: 192, Moves calculated is: 491 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Bf5+ Kf6 2. Nh5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 166: 8/5prk/p5rb/P3N2R/1p1PQ2p/7P/1P3RPq/5K2 w - - 1 0 with expected solution 1. Rxh6+ Kg8 2. Qa8#
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'h5h6'}, {'value': 25, 'move': 'h7h6'}, {'value': 119, 'move': 'e4h4'}], Eval is: 9999999, Moves calculated is: 255 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxh6+ Kg8 2. Qa8#
+
+
+INFO:ChessProblemsLogger:Processing problem 167: rqb2bk1/3n2pr/p1pp2Qp/1p6/3BP2N/2N4P/PPP3P1/2KR3R w - - 1 0 with expected solution 1. Qe6+ Kh8 2. Ng6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'g6f7'}, {'value': 25, 'move': 'g8h8'}, {'value': 193, 'move': 'f7g7'}], Eval is: 251, Moves calculated is: 2221 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qe6+ Kh8 2. Ng6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 168: 1Q6/r3R2p/k2p2pP/p1q5/Pp4P1/5P2/1PP3K1/8 w - - 1 0 with expected solution 1. Rxa7+ Qxa7 2. Qb5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 115, 'move': 'e7a7'}, {'value': -10, 'move': 'c5a7'}, {'value': 83, 'move': 'b8b5'}], Eval is: 9999999, Moves calculated is: 177 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxa7+ Qxa7 2. Qb5#
+
+
+INFO:ChessProblemsLogger:Processing problem 169: N5k1/5p2/6p1/6Pp/4bb1P/P5r1/7K/2R3R1 b - - 0 1 with expected solution 1... Rg2+ 2. Kh3 Rh2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'g3g2'}, {'value': 25, 'move': 'h2h1'}, {'value': 90, 'move': 'g2g1'}], Eval is: 178, Moves calculated is: 604 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Rg2+ 2. Kh3 Rh2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 170: 3R4/3Q1p2/q1rn2kp/4p3/4P3/2N3P1/5P1P/6K1 w - - 1 0 with expected solution 1. Qg4+ Kf6 2. Nd5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 119, 'move': 'd7g4'}, {'value': 25, 'move': 'g6h7'}, {'value': 108, 'move': 'g4g8'}], Eval is: 9999999, Moves calculated is: 103 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qg4+ Kf6 2. Nd5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 171: 6R1/2k2P2/1n5r/3p1p2/3P3b/1QP2p1q/3R4/6K1 b - - 0 1 with expected solution 1... Qh1+ 2. Kxh1 Bf2#
+INFO:ChessProblemsLogger:Returned move: [{'value': 109, 'move': 'h4f2'}, {'value': 25, 'move': 'g1f2'}, {'value': 123, 'move': 'h3h4'}], Eval is: 207, Moves calculated is: 577 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1... Qh1+ 2. Kxh1 Bf2#
+
+
+INFO:ChessProblemsLogger:Processing problem 172: 5r2/7p/3R4/p3pk2/1p2N2p/1P2BP2/6PK/4r3 w - - 1 0 with expected solution 1. g4+ hxg3+ 2. Nxg3#
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'd6f6'}, {'value': -8, 'move': 'f8f6'}, {'value': 129, 'move': 'e4g3'}], Eval is: 250, Moves calculated is: 305 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. g4+ hxg3+ 2. Nxg3#
+
+
+INFO:ChessProblemsLogger:Processing problem 173: 7r/3kbp1p/1Q3R2/3p3q/p2P3B/1P5K/P6P/8 w - - 1 0 with expected solution 1. Qc6+ Kd8 2. Rd6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 220, 'move': 'f6d6'}, {'value': -15, 'move': 'e7d6'}, {'value': 118, 'move': 'b6b5'}], Eval is: 353, Moves calculated is: 552 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Qc6+ Kd8 2. Rd6#
+
+
+INFO:ChessProblemsLogger:Processing problem 174: r4r1k/p2p3p/bp1Np3/4P3/2P2nR1/3B1q2/P1PQ4/2K3R1 w - - 1 0 with expected solution 1. Rg8+ Rxg8 2. Nf7# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'g4g8'}, {'value': -10, 'move': 'f8g8'}, {'value': 113, 'move': 'd6f7'}], Eval is: 9999999, Moves calculated is: 135 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rg8+ Rxg8 2. Nf7# 
+
+
+INFO:ChessProblemsLogger:Processing problem 175: 1r3b2/1bp2pkp/p1q4N/1p1n1pBn/8/2P3QP/PPB2PP1/4R1K1 w - - 1 0 with expected solution 1. Bf6+ Kxf6 2. Ng8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 123, 'move': 'g3e5'}, {'value': 25, 'move': 'g7g6'}, {'value': 209, 'move': 'c2f5'}], Eval is: 9999999, Moves calculated is: 154 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Bf6+ Kxf6 2. Ng8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 176: 8/k1p1q3/Pp5Q/4p3/2P1P2p/3P4/4K3/8 w - - 1 0 with expected solution 1. Qc6 Kxa6 2. Qa8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': -3, 'move': 'h6c6'}, {'value': 25, 'move': 'a7b8'}, {'value': 83, 'move': 'c6b7'}], Eval is: 9999999, Moves calculated is: 668 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qc6 Kxa6 2. Qa8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 177: 8/pp2k3/7r/2P1p1p1/4P3/5pq1/2R3N1/1R3BK1 b - - 0 1 with expected solution 1... f2+ 2. Rxf2 Qh2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': -9, 'move': 'f3g2'}, {'value': 20, 'move': 'c2c1'}, {'value': 80, 'move': 'h6h1'}], Eval is: 9999999, Moves calculated is: 1164 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... f2+ 2. Rxf2 Qh2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 178: 7k/p5b1/1p4Bp/2q1p1p1/1P1n1r2/P2Q2N1/6P1/3R2K1 b - - 0 1 with expected solution 1... Ne2+ 2. Kh2 Rh4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 110, 'move': 'd4f3'}, {'value': 25, 'move': 'g1h1'}, {'value': 118, 'move': 'f4h4'}], Eval is: 9999999, Moves calculated is: 124 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Ne2+ 2. Kh2 Rh4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 179: 8/p4q2/6k1/1p3rP1/3Q4/8/PPP5/K6R w - - 1 0 with expected solution 1. Rh6+ Kxg5 2. Qh4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 80, 'move': 'h1h6'}], Eval is: 9999999, Moves calculated is: 5 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rh6+ Kxg5 2. Qh4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 180: 2r3k1/1p3ppp/p3p3/7P/P4P2/1R2QbP1/6q1/1B2K3 b - - 0 1 with expected solution 1... Rc1+ 2. Qxc1 Qe2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'g2g1'}, {'value': 25, 'move': 'e1d2'}, {'value': 106, 'move': 'g1d1'}], Eval is: 9999999, Moves calculated is: 283 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... Rc1+ 2. Qxc1 Qe2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 181: 6r1/p6k/Bp3n1r/2pP1P2/P4q1P/2P2Q2/5K2/2R2R2 b - - 0 1 with expected solution 1... Ne4+ 2. Ke1 Qd2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'f6g4'}, {'value': 25, 'move': 'f2g2'}, {'value': 106, 'move': 'f4h2'}], Eval is: 9999999, Moves calculated is: 388 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... Ne4+ 2. Ke1 Qd2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 182: 8/8/8/5P2/R2p1N2/4n1r1/PP6/5k1K b - - 0 1 with expected solution 1... Ng4 2. Ng2 Rh3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 18, 'move': 'e3g4'}, {'value': 15, 'move': 'a4b4'}, {'value': 80, 'move': 'g3g1'}], Eval is: 9999999, Moves calculated is: 108 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Ng4 2. Ng2 Rh3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 183: r7/4k1Pp/2n1p2P/q2pp1N1/1p4P1/1P6/P4R2/1K1R4 w - - 1 0 with expected solution 1. Rf7+ Kd6 2. Ne4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 103, 'move': 'f2f7'}, {'value': 25, 'move': 'e7e8'}, {'value': 80, 'move': 'f7f8'}], Eval is: 158, Moves calculated is: 1274 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rf7+ Kd6 2. Ne4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 184: 2Q5/1p3p2/3b1k1p/3Pp3/4B1R1/4q1P1/r4PK1/8 w - - 1 0 with expected solution 1. Qd8+ Be7 2. Qh8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'c8d8'}, {'value': -15, 'move': 'd6e7'}, {'value': 118, 'move': 'd8h8'}], Eval is: 9999999, Moves calculated is: 154 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qd8+ Be7 2. Qh8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 185: 8/5Qpk/p1R4p/P2p4/6P1/2rq4/5PPK/8 w - - 1 0 with expected solution 1. Rxh6+ Kxh6 2. Qh5# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 79, 'move': 'c6h6'}, {'value': 25, 'move': 'h7h6'}, {'value': 83, 'move': 'f7h5'}], Eval is: 9999999, Moves calculated is: 272 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxh6+ Kxh6 2. Qh5# 
+
+
+INFO:ChessProblemsLogger:Processing problem 186: 3n1k2/5p2/2p1bb2/1p2pN1q/1P2P3/2P3Q1/5PB1/3R2K1 w - - 1 0 with expected solution 1. Qg7+ Bxg7 2. Rxd8# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'g3g7'}, {'value': 25, 'move': 'f8e8'}, {'value': 118, 'move': 'g7g8'}], Eval is: 9999999, Moves calculated is: 127 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Qg7+ Bxg7 2. Rxd8# 
+
+
+INFO:ChessProblemsLogger:Processing problem 187: rnR5/p3p1kp/4p1pn/bpP5/5BP1/5N1P/2P2P2/2K5 w - - 1 0 with expected solution 1. Be5+ Kf7 2. Ng5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 115, 'move': 'f4e5'}, {'value': 25, 'move': 'g7f7'}, {'value': 113, 'move': 'f3g5'}], Eval is: 203, Moves calculated is: 463 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Be5+ Kf7 2. Ng5#
+
+
+INFO:ChessProblemsLogger:Processing problem 188: 6rk/6p1/4R2p/p2pP2b/5Q2/2P2PB1/1q4PK/8 w - - 1 0 with expected solution 1. Rxh6+ gxh6 2. Qxh6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 122, 'move': 'e6h6'}, {'value': -17, 'move': 'g7h6'}, {'value': 118, 'move': 'f4h6'}], Eval is: 9999999, Moves calculated is: 120 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxh6+ gxh6 2. Qxh6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 189: 1Q6/8/3p1pk1/2pP4/1p3K2/5R2/5qP1/4r3 b - - 0 1 with expected solution 1... Re4+ 2. Kxe4 Qd4# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'f2h4'}], Eval is: 9999999, Moves calculated is: 1 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... Re4+ 2. Kxe4 Qd4# 
+
+
+INFO:ChessProblemsLogger:Processing problem 190: r4r1k/pp5p/n5p1/1q2Np1n/1Pb5/6P1/PQ2PPBP/1RB3K1 w - - 1 0 with expected solution 1. Nf7+ Kg8 2. Nh6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': -18, 'move': 'g2d5'}, {'value': 28, 'move': 'f8e8'}, {'value': 92, 'move': 'e5g6'}], Eval is: 9999999, Moves calculated is: 1554 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Nf7+ Kg8 2. Nh6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 191: 7k/p1p2bp1/3q1N1p/4rP2/4pQ2/2P4R/P2r2PP/4R2K w - - 1 0 with expected solution 1. Rxh6+ gxh6 2. Qxh6# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 222, 'move': 'h3h6'}, {'value': -17, 'move': 'g7h6'}, {'value': 118, 'move': 'f4h6'}], Eval is: 9999999, Moves calculated is: 123 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rxh6+ gxh6 2. Qxh6# 
+
+
+INFO:ChessProblemsLogger:Processing problem 192: 7k/2p3pp/p7/1p1p4/PP2pr2/B1P3qP/4N1B1/R1Qn2K1 b - - 0 1 with expected solution 1... Rf1+ 2. Kxf1 Qf2# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'f4f1'}, {'value': 25, 'move': 'g1f1'}, {'value': 106, 'move': 'g3f2'}], Eval is: 9999999, Moves calculated is: 279 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Rf1+ 2. Kxf1 Qf2# 
+
+
+INFO:ChessProblemsLogger:Processing problem 193: r1b2k2/1p1p1r1B/n4p2/p1qPp3/2P4N/4P1R1/PPQ3PP/R5K1 w - - 1 0 with expected solution 1. Rg8+ Ke7 2. Nf5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 129, 'move': 'c2g6'}, {'value': 38, 'move': 'f7e7'}, {'value': 106, 'move': 'g6g8'}], Eval is: 9999999, Moves calculated is: 256 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Rg8+ Ke7 2. Nf5#
+
+
+INFO:ChessProblemsLogger:Processing problem 194: 8/8/2K2b2/2N2k2/1p4R1/1B3n1P/3r1P2/8 w - - 1 0 with expected solution 1. Be6+ Ke5 2. Re4#
+INFO:ChessProblemsLogger:Returned move: [{'value': 101, 'move': 'b3e6'}, {'value': 25, 'move': 'f5e5'}, {'value': 111, 'move': 'c5d7'}], Eval is: 187, Moves calculated is: 436 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Be6+ Ke5 2. Re4#
+
+
+INFO:ChessProblemsLogger:Processing problem 195: 5R2/R5pp/2b1p1k1/5n2/p1r2PK1/8/7P/8 b - - 0 1 with expected solution 1... h5+ 2. Kh3 Rc3#
+INFO:ChessProblemsLogger:Returned move: [{'value': 129, 'move': 'f5h6'}, {'value': 25, 'move': 'g4h4'}, {'value': 90, 'move': 'c4f4'}], Eval is: 194, Moves calculated is: 339 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... h5+ 2. Kh3 Rc3#
+
+
+INFO:ChessProblemsLogger:Processing problem 196: 8/3R3p/2b4k/p1p1B1p1/2n2PB1/3p1P2/P7/6K1 w - - 1 0 with expected solution 1. Bg7+ Kg6 2. f5# *
+INFO:ChessProblemsLogger:Returned move: [{'value': 14, 'move': 'g4f5'}, {'value': 25, 'move': 'h6h5'}, {'value': 118, 'move': 'd7h7'}], Eval is: 9999999, Moves calculated is: 677 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Bg7+ Kg6 2. f5# *
+
+
+INFO:ChessProblemsLogger:Processing problem 197: 6k1/1p5p/3P3r/4p3/2N1PBpb/PPr5/3R1P1K/5b1R b - - 0 1 with expected solution 1... Bxf2+ 2. Bxh6 Rh3# 
+INFO:ChessProblemsLogger:Returned move: [{'value': 116, 'move': 'c3g3'}, {'value': 18, 'move': 'd2b2'}, {'value': 103, 'move': 'g3g2'}], Eval is: 9999999, Moves calculated is: 186 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... Bxf2+ 2. Bxh6 Rh3# 
+
+
+INFO:ChessProblemsLogger:Processing problem 198: 8/4n2k/b1Pp2p1/3Ppp1p/p2qP3/3B1P2/Q2NK1PP/3R4 b - - 0 1 with expected solution 1... Bxd3+ 2. Ke1 Qe3#
+INFO:ChessProblemsLogger:Returned move: [{'value': 106, 'move': 'a6d3'}, {'value': 25, 'move': 'e2e1'}, {'value': 118, 'move': 'd4e3'}], Eval is: 9999999, Moves calculated is: 144 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Bxd3+ 2. Ke1 Qe3#
+
+
+INFO:ChessProblemsLogger:Processing problem 199: k2r4/ppRn2p1/6p1/1P3p2/3p1B2/6P1/P4PBP/4n1K1 w - - 1 0 with expected solution 1. Bxb7+ Kb8 2. Rxd7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 103, 'move': 'g2b7'}, {'value': 25, 'move': 'a8b8'}, {'value': 113, 'move': 'c7c8'}], Eval is: 191, Moves calculated is: 380 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Bxb7+ Kb8 2. Rxd7#
+
+
+INFO:ChessProblemsLogger:Processing problem 200: 4rk2/1bq2p1Q/3p1bp1/1p1n2N1/4PB2/2Pp3P/1P1N4/5RK1 w - - 1 0 with expected solution 1. Bxd6+ Qe7 2. Qxf7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 85, 'move': 'f4d6'}, {'value': 26, 'move': 'f6e7'}, {'value': 211, 'move': 'h7f7'}], Eval is: 9999999, Moves calculated is: 332 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Bxd6+ Qe7 2. Qxf7#
+
+
+INFO:ChessProblemsLogger:Processing problem 201: 8/R7/pp1b2kp/1b1B1p2/5P1P/5KP1/P7/8 w - - 1 0 with expected solution 1. h5+ Kxh5 2. Bf7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 103, 'move': 'd5f7'}, {'value': 25, 'move': 'g6g7'}, {'value': 26, 'move': 'g3g4'}], Eval is: 104, Moves calculated is: 300 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. h5+ Kxh5 2. Bf7#
+
+
+INFO:ChessProblemsLogger:Processing problem 202: 2b3k1/6p1/p2bp2r/1p1p4/3Np1B1/1PP1PRq1/P1R3P1/3Q2K1 b - - 0 1 with expected solution 1... Rh1+ 2. Kxh1 Qh2#
+INFO:ChessProblemsLogger:Returned move: [{'value': 80, 'move': 'h6h1'}, {'value': 25, 'move': 'g1h1'}, {'value': 83, 'move': 'g3h2'}], Eval is: 9999999, Moves calculated is: 299 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Rh1+ 2. Kxh1 Qh2#
+
+
+INFO:ChessProblemsLogger:Processing problem 203: 6k1/p2p2p1/8/3np1N1/1P5R/3q2P1/5RKP/8 w - - 1 0 with expected solution 1. Rh8+ Kxh8 2. Rf8#
+INFO:ChessProblemsLogger:Returned move: [{'value': 80, 'move': 'h4h8'}, {'value': 25, 'move': 'g8h8'}, {'value': 115, 'move': 'f2f8'}], Eval is: 9999999, Moves calculated is: 107 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rh8+ Kxh8 2. Rf8#
+
+
+INFO:ChessProblemsLogger:Processing problem 204: 2r3k1/3b2b1/5pp1/3P4/pB2P3/2NnqN2/1P2B2Q/5K1R b - - 0 1 with expected solution 1... Bh3+ 2. Qg2 Qf2#
+INFO:ChessProblemsLogger:Returned move: [{'value': 85, 'move': 'd7h3'}, {'value': 18, 'move': 'h2h3'}, {'value': 106, 'move': 'e3f2'}], Eval is: 9999999, Moves calculated is: 353 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Bh3+ 2. Qg2 Qf2#
+
+
+INFO:ChessProblemsLogger:Processing problem 205: n3r1k1/Q4R1p/p5pb/1p2p1N1/1q2P3/1P4PB/2P3KP/8 w - - 1 0 with expected solution 1. Rf8+ Qxf8 2. Qxh7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 79, 'move': 'f7f8'}, {'value': 25, 'move': 'g8f8'}, {'value': 106, 'move': 'a7f7'}], Eval is: 9999999, Moves calculated is: 183 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Rf8+ Qxf8 2. Qxh7#
+
+
+INFO:ChessProblemsLogger:Processing problem 206: 2r5/2k4p/1p2pp2/1P2qp2/8/Q5P1/4PP1P/R5K1 w - - 1 0 with expected solution 1. Qe7+ Kb8 2. Qa7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'a3e7'}, {'value': 25, 'move': 'c7b8'}, {'value': 108, 'move': 'e7a7'}], Eval is: 9999999, Moves calculated is: 223 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qe7+ Kb8 2. Qa7#
+
+
+INFO:ChessProblemsLogger:Processing problem 207: 6k1/4q1b1/p1p1p1Q1/1r4N1/4p3/1P5R/5P2/7K w - - 1 0 with expected solution 1. Rh8+ Kxh8 2. Qh7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'h3h8'}, {'value': 25, 'move': 'g8h8'}, {'value': 106, 'move': 'g6h7'}], Eval is: 9999999, Moves calculated is: 187 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Rh8+ Kxh8 2. Qh7#
+
+
+INFO:ChessProblemsLogger:Processing problem 208: 5rk1/pb2npp1/1pq4p/5p2/5B2/1B6/P2RQ1PP/2r1R2K b - - 0 1 with expected solution 1... Qxg2+ 2. Qxg2 Rxe1#
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'c6g2'}, {'value': -5, 'move': 'e2g2'}, {'value': 115, 'move': 'c1e1'}], Eval is: 210, Moves calculated is: 2045 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qxg2+ 2. Qxg2 Rxe1#
+
+
+INFO:ChessProblemsLogger:Processing problem 209: 6k1/2R1Qpb1/3Bp1p1/1p2n2p/3q4/1P5P/2N2PPK/r7 b - - 0 1 with expected solution 1... Qf4+ 2. g3 Qxf2#
+INFO:ChessProblemsLogger:Returned move: [{'value': 121, 'move': 'e5g4'}, {'value': 25, 'move': 'h2g3'}, {'value': 106, 'move': 'd4f2'}], Eval is: 9999999, Moves calculated is: 157 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1... Qf4+ 2. g3 Qxf2#
+
+
+INFO:ChessProblemsLogger:Processing problem 210: 6k1/pp3p2/2p2np1/2P1pbqp/P3P3/2N2nP1/2Pr1P2/1RQ1RB1K b - - 0 1 with expected solution 1... Qxg3 2. fxg3 Rh2#
+INFO:ChessProblemsLogger:Returned move: [{'value': 122, 'move': 'g5h4'}, {'value': 25, 'move': 'h1g2'}, {'value': 206, 'move': 'h4h3'}], Eval is: 9999999, Moves calculated is: 131 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1... Qxg3 2. fxg3 Rh2#
+
+
+INFO:ChessProblemsLogger:Processing problem 211: 6k1/p2rR1p1/1p1r1p1R/3P4/4QPq1/1P6/P5PK/8 w - - 1 0 with expected solution 1. Rh8+ Kxh8 2. Re8#
+INFO:ChessProblemsLogger:Returned move: [{'value': 108, 'move': 'e4h7'}, {'value': 25, 'move': 'g8f8'}, {'value': 118, 'move': 'h7h8'}], Eval is: 9999999, Moves calculated is: 153 ------ points 50
+INFO:ChessProblemsLogger:Expected solution was: 1. Rh8+ Kxh8 2. Re8#
+
+
+INFO:ChessProblemsLogger:Processing problem 212: 7R/1bpkp3/p2pp3/3P4/4B1q1/2Q5/4NrP1/3K4 w - - 1 0 with expected solution 1. Qc6+ Bxc6 2. dxc6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 80, 'move': 'h8d8'}, {'value': 25, 'move': 'd7d8'}, {'value': 118, 'move': 'c3h8'}], Eval is: 173, Moves calculated is: 650 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. Qc6+ Bxc6 2. dxc6#
+
+
+INFO:ChessProblemsLogger:Processing problem 213: 1r3r1k/qp5p/3N4/3p2Q1/p6P/P7/1b6/1KR3R1 w - - 1 0 with expected solution 1. Qg8+ Rxg8 2. Nf7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 93, 'move': 'g5g8'}, {'value': -10, 'move': 'f8g8'}, {'value': 113, 'move': 'd6f7'}], Eval is: 9999999, Moves calculated is: 213 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qg8+ Rxg8 2. Nf7#
+
+
+INFO:ChessProblemsLogger:Processing problem 214: r3k2r/p3bpp1/2q1p1b1/1ppPP1B1/3n3P/5NR1/PP2NP2/K1QR4 b kq - 0 1 with expected solution 1... Nb3+ 2. axb3 Qa6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 92, 'move': 'd4b3'}, {'value': 12, 'move': 'a2b3'}, {'value': 119, 'move': 'c6a6'}], Eval is: 9999999, Moves calculated is: 365 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Nb3+ 2. axb3 Qa6#
+
+
+INFO:ChessProblemsLogger:Processing problem 215: 1r5k/3b3p/3p3b/2qPp3/Pnp4P/Q1N5/8/K5RR b - - 0 1 with expected solution 1... Nc2+ 2. Ka2 Qxa3#
+INFO:ChessProblemsLogger:Returned move: [{'value': 113, 'move': 'b4c2'}, {'value': 25, 'move': 'a1a2'}, {'value': 106, 'move': 'c5a3'}], Eval is: 9999999, Moves calculated is: 143 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Nc2+ 2. Ka2 Qxa3#
+
+
+INFO:ChessProblemsLogger:Processing problem 216: 1k1r4/pp5R/2p5/P5p1/7b/4Pq2/1PQ2P2/3NK3 b - - 0 1 with expected solution 1... Rxd1+ 2. Qxd1 Qxf2#
+INFO:ChessProblemsLogger:Returned move: [{'value': 215, 'move': 'd8d1'}, {'value': -10, 'move': 'c2d1'}, {'value': 206, 'move': 'f3f2'}], Eval is: 9999999, Moves calculated is: 114 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Rxd1+ 2. Qxd1 Qxf2#
+
+
+INFO:ChessProblemsLogger:Processing problem 217: 1r3k2/4R3/1p4Pp/p1pN1p2/2Pn1K2/1P6/1P6/8 w - - 1 0 with expected solution 1. g7+ Kg8 2. Nf6#
+INFO:ChessProblemsLogger:Returned move: [{'value': 90, 'move': 'e7e8'}, {'value': 25, 'move': 'f8e8'}, {'value': 113, 'move': 'd5c7'}], Eval is: 178, Moves calculated is: 367 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. g7+ Kg8 2. Nf6#
+
+
+INFO:ChessProblemsLogger:Processing problem 218: 5bk1/R4p1p/6p1/8/3p2K1/1Q4P1/1P3P1q/2r5 b - - 0 1 with expected solution 1... Qh5+ 2. Kf4 Qf5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 83, 'move': 'h2h5'}, {'value': 25, 'move': 'g4f4'}, {'value': 83, 'move': 'h5f5'}], Eval is: 9999999, Moves calculated is: 204 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1... Qh5+ 2. Kf4 Qf5#
+
+
+INFO:ChessProblemsLogger:Processing problem 219: 3rr2k/pp1b2b1/4q1pp/2Pp1p2/3B4/1P2QNP1/P6P/R4RK1 w - - 1 0 with expected solution 1. Qxh6+ Kg8 2. Qxg7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 95, 'move': 'e3h6'}, {'value': 25, 'move': 'h8g8'}, {'value': 106, 'move': 'h6g7'}], Eval is: 9999999, Moves calculated is: 124 ------ points 150
+INFO:ChessProblemsLogger:Expected solution was: 1. Qxh6+ Kg8 2. Qxg7#
+
+
+INFO:ChessProblemsLogger:Processing problem 220: 3r2k1/6pp/1nQ1R3/3r4/3N2q1/6N1/n4PPP/4R1K1 w - - 1 0 with expected solution 1. Re8+ Kf7 2. R1e7#
+INFO:ChessProblemsLogger:Returned move: [{'value': 118, 'move': 'e6e8'}, {'value': 25, 'move': 'g8f7'}, {'value': 205, 'move': 'e1e7'}], Eval is: 9999999, Moves calculated is: 196 ------ points 100
+INFO:ChessProblemsLogger:Expected solution was: 1. Re8+ Kf7 2. R1e7#
+
+
+INFO:ChessProblemsLogger:Processing problem 221: 5bk1/6p1/5PQ1/pp4Pp/2p4P/P2r4/1PK5/8 w - - 1 0 with expected solution 1. f7+ Kh8 2. Qxh5#
+INFO:ChessProblemsLogger:Returned move: [{'value': 104, 'move': 'g6f7'}, {'value': 25, 'move': 'g8f7'}, {'value': 88, 'move': 'f6g7'}], Eval is: 167, Moves calculated is: 201 ------ points 0
+INFO:ChessProblemsLogger:Expected solution was: 1. f7+ Kh8 2. Qxh5#
+
+
+INFO:ChessProblemsLogger:zero count : 39
+INFO:ChessProblemsLogger:Zero indices
+ {15: {'Line': 15}, 37: {'Line': 37}, 38: {'Line': 38}, 46: {'Line': 46}, 47: {'Line': 47}, 49: {'Line': 49}, 66: {'Line': 66}, 69: {'Line': 69}, 73: {'Line': 73}, 75: {'Line': 75}, 82: {'Line': 82}, 90: {'Line': 90}, 91: {'Line': 91}, 95: {'Line': 95}, 98: {'Line': 98}, 101: {'Line': 101}, 108: {'Line': 108}, 118: {'Line': 118}, 122: {'Line': 122}, 128: {'Line': 128}, 134: {'Line': 134}, 136: {'Line': 136}, 146: {'Line': 146}, 148: {'Line': 148}, 150: {'Line': 150}, 160: {'Line': 160}, 174: {'Line': 174}, 176: {'Line': 176}, 179: {'Line': 179}, 180: {'Line': 180}, 188: {'Line': 188}, 189: {'Line': 189}, 194: {'Line': 194}, 195: {'Line': 195}, 196: {'Line': 196}, 209: {'Line': 209}, 211: {'Line': 211}, 216: {'Line': 216}, 220: {'Line': 220}}
+
+
+INFO:ChessProblemsLogger:fifty count: 43
+INFO:ChessProblemsLogger:Fifty indices
+ {8: {'Line': 8}, 13: {'Line': 13}, 23: {'Line': 23}, 31: {'Line': 31}, 32: {'Line': 32}, 36: {'Line': 36}, 52: {'Line': 52}, 55: {'Line': 55}, 56: {'Line': 56}, 58: {'Line': 58}, 60: {'Line': 60}, 61: {'Line': 61}, 62: {'Line': 62}, 70: {'Line': 70}, 71: {'Line': 71}, 77: {'Line': 77}, 79: {'Line': 79}, 84: {'Line': 84}, 88: {'Line': 88}, 93: {'Line': 93}, 97: {'Line': 97}, 99: {'Line': 99}, 105: {'Line': 105}, 110: {'Line': 110}, 111: {'Line': 111}, 125: {'Line': 125}, 139: {'Line': 139}, 155: {'Line': 155}, 157: {'Line': 157}, 161: {'Line': 161}, 166: {'Line': 166}, 168: {'Line': 168}, 169: {'Line': 169}, 171: {'Line': 171}, 175: {'Line': 175}, 177: {'Line': 177}, 178: {'Line': 178}, 181: {'Line': 181}, 182: {'Line': 182}, 185: {'Line': 185}, 200: {'Line': 200}, 208: {'Line': 208}, 210: {'Line': 210}}
+
+
+INFO:ChessProblemsLogger:hundred count: 28
+INFO:ChessProblemsLogger:hundred indices
+ {12: {'Line': 12}, 17: {'Line': 17}, 22: {'Line': 22}, 27: {'Line': 27}, 35: {'Line': 35}, 43: {'Line': 43}, 50: {'Line': 50}, 63: {'Line': 63}, 67: {'Line': 67}, 104: {'Line': 104}, 106: {'Line': 106}, 116: {'Line': 116}, 123: {'Line': 123}, 131: {'Line': 131}, 132: {'Line': 132}, 137: {'Line': 137}, 144: {'Line': 144}, 158: {'Line': 158}, 163: {'Line': 163}, 164: {'Line': 164}, 165: {'Line': 165}, 170: {'Line': 170}, 172: {'Line': 172}, 192: {'Line': 192}, 193: {'Line': 193}, 198: {'Line': 198}, 204: {'Line': 204}, 219: {'Line': 219}}
+
+
+INFO:ChessProblemsLogger:Winning count------- yahoooooooo: 109
+INFO:ChessProblemsLogger:Total points: 219
